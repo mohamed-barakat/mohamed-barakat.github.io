@@ -17,14 +17,14 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 direction                : # "ltr" (default), "rtl" # set the direction of the page
-title                    : "Site Title"
+title                    : "Mohamed Barakat"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+subtitle                 : "academic homepage" # site tagline that appears below site title in masthead
+name                     : &name "Mohamed Barakat"
+description              : "Mohamed Barakat's academic homepage"
+url                      : "https://mohamed-barakat.github.io"
+baseurl                  : ""
+repository               : "mohamed-barakat/mohamed-barakat.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -114,61 +114,69 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  name             : "Mohamed Barakat"
+  avatar           : "/assets/images/mohamed-barakat.jpg"
+  bio              : "Professor of mathematics"
+  location         : "University of Siegen"
+  email            : "mohamed.barakat@uni-siegen.de"
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
+  bitbucket        : # "math_barakat"
+  github           : "mohamed-barakat"
+  keybase          : "barakat"
+  linkedin         : "mohamed-barakat-419738111"
+  stackoverflow    : # "10355/mohamed-barakat"
+  twitter          : # "math_barakat"
+  uri              : "https://mohamed-barakat.github.io/"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-square-envelope"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-square-x-twitter"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-square-facebook"
-      # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+    #- label: "Email"
+    #  icon: "fas fa-fw fa-square-envelope"
+    #  # url: "mailto:your.name@email.com"
+    #- label: "Website"
+    #  icon: "fas fa-fw fa-link"
+    #  # url: "https://your-website.com"
+    #- label: "Twitter"
+    #  icon: "fab fa-fw fa-square-x-twitter"
+    #  # url: "https://twitter.com/"
+    #- label: "Facebook"
+    #  icon: "fab fa-fw fa-square-facebook"
+    #  # url: "https://facebook.com/"
+    #- label: "GitHub"
+    #  icon: "fab fa-fw fa-github"
+    #  # url: "https://github.com/"
+    #- label: "Instagram"
+    #  icon: "fab fa-fw fa-instagram"
+    #  # url: "https://instagram.com/"
 
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-square-x-twitter"
-      # url:
-      # rel: "me"  # optional: adds rel attribute (e.g. for IndieWeb web sign-in)
-    - label: "Facebook"
-      icon: "fab fa-fw fa-square-facebook"
-      # url:
+    #- label: "Twitter"
+    #  icon: "fab fa-fw fa-square-x-twitter"
+    #  # url:
+    #  # rel: "me"  # optional: adds rel attribute (e.g. for IndieWeb web sign-in)
+    #- label: "Facebook"
+    #  icon: "fab fa-fw fa-square-facebook"
+    #  # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
-  since: "2013"
+      url: "https://github.com/mohamed-barakat"
+    #- label: "GitLab"
+    #  icon: "fab fa-fw fa-gitlab"
+    #  # url:
+    #- label: "Bitbucket"
+    #  icon: "fab fa-fw fa-bitbucket"
+    #  url: "https://bitbucket.org/math_barakat/"
+    #- label: "Instagram"
+    #  icon: "fab fa-fw fa-instagram"
+    #  # url:
+  #since: "2013"
 
 
 # Reading Files
 include:
   - .htaccess
   - _pages
+  - "CV_Mohamed_Barakat.pdf"
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -234,7 +242,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Berlin # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Pagination with jekyll-paginate
@@ -317,6 +325,11 @@ compress_html:
   ignore:
     envs: development
 
+# Collections
+collections:
+  blog:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -327,8 +340,26 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: # true
       comments: # true
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+  # _blog
+  - scope:
+      path: ""
+      type: blog
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
       share: true
       related: true
 
