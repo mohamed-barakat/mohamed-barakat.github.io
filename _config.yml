@@ -20,7 +20,7 @@ title                    : ""
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Mohamed Barakat"
-description              : "Personal homepage."
+description              : "Mohamed Barakat's homepage"
 url                      : "https://mohamed-barakat.github.io"
 baseurl                  : ""
 repository               : "mohamed-barakat/mohamed-barakat.github.io"
