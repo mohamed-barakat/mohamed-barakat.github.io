@@ -1,0 +1,70 @@
+==================================================================
+https://keybase.io/barakat
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://mohamed-barakat.github.io
+  * I am barakat (https://keybase.io/barakat) on keybase.
+  * I have a public key with fingerprint 6802 9BB0 4E56 4F6A EBBA  55CF 850B 4C46 308D 222B
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01209a233ede9a73098b1b139b45d4d25a67608ff07e9d08abf8ade4c8e286ba97270a",
+      "fingerprint": "68029bb04e564f6aebba55cf850b4c46308d222b",
+      "host": "keybase.io",
+      "key_id": "850b4c46308d222b",
+      "kid": "01019fffe8d0166fab7c544b28f2b06b9f0db1ea983f5ed0fd637748bf98a4fe5a950a",
+      "uid": "19191413809ef53cc725e69f3ea64f00",
+      "username": "barakat"
+    },
+    "service": {
+      "hostname": "mohamed-barakat.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1502722086,
+  "expire_in": 157680000,
+  "prev": "2e65422a7ff4d9f8d82425c26994606d96a7e8724769d675411b5e9be24737f5",
+  "seqno": 7,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1.4.3 (Darwin)
+
+owFtkl1sFUUUx1uaIgGboEl5MEGSTYjSljI7O59XUkmrNREJwYgBHriZ2TnTu7a9
+e7l329rUkmpTAmlJIAHBShSD8CAfAQKI4ctQUBue/CToC8bwgIFAi5SgJjh7rTw5
+8zAzJ7/zP/9zMttqqipmVA7Nea0VbfXqK6/c1BVrt59e2ufp2PR6mT6vHcoHdBgo
+Jdn2yHgZD/kYSYWDAAxIxQMkhfa1H0hNqCEGU8U4Q8JaxEEaJJS2QhkgoQAsmFaS
+Y46U1+DZKN8GxUIxyidOlgmEpdaIAGXEMgVaK0pDKyjSJCQsQMJgjLVLzMWlNMOZ
+06oEjVHsYu6RLdv7H/4/38iX1loQBvmMWaV5SAnRWFisEdPSIqN9UFIEloJB1rCA
+cyK0lUIRC1RJWvbdVZbzpdvEDwSSYGkQhhxTYNIGoJx/hFKwBMW86gRHa1VU7Srx
++hs8F+yOQkjnmjYyDXTGOXcxi6fBxrYoyXXpf3srFOMkDuMOh+WSpFDKpDJJbyHN
+6wGdnVbM6ihv3ExdRjcUS1Gc9zK+I8MkSkv4FGGOMRKswYO3C1ERslFKUO5G71Za
+x0C308TAKMFYcWuJkVYYgQmmIWZSEoaYkUxxEBwTzqRhnBLf1xSkBhcJuKVe2uSG
+fOxluPOp2pxkKWrLq6SrCF7/7C2VtVXV5Y/2+OfN+OXzWRW79TDf+vHTd46/07K3
+7sDAi7nZxxaP/35sfP7ogoPnf/jjctXzN0beOrp89eSjlnD4xGf3B1u/wy+9u/69
++/MeTX31YFfh24mHu79sPnWhMHPhQljxwSWqPjm6aE0V7ek40nX6bl3z+3c23shX
+X5bL6gZf3Xv2ou2/9MTL99Z9PReNe2O/3Wyqn4g37u8be3JwT+/O+a+8MLntm6fU
+xVXDYdPKNXs+arz2Zs/gXz91PjdVM3Z8aujWj3M/XT/v13M1E3/Xr9q0edfaJbXV
+J5u+X7B639JnYKR584dXbs2ZPDwEbzzou3tqe+5ecL6WDQ+ceTiyf2rTytHbZ/f9
+2XvmaqHl+hfP7hhd8bNqfX3W9YFD/wA=
+=zS/C
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/barakat
+
+==================================================================
+
+
