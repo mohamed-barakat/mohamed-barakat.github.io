@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Mohamed Barakat's homepage"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Mohamed Barakat"
+name                     : &name "Mohamed Barakat"
 description              : "Mohamed Barakat's homepage"
 url                      : "https://mohamed-barakat.github.io"
 baseurl                  : ""
@@ -94,7 +94,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mohamed Barakat"
+  name             : *name
   avatar           : "https://s.gravatar.com/avatar/b6c912d83fae03c02faab2324de0acd3?s=80"
   bio              : "Professor of mathematics"
   location         : "University of Siegen"
