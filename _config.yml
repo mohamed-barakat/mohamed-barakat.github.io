@@ -139,6 +139,7 @@ footer:
 include:
   - .htaccess
   - _pages
+  - "CV_Mohamed_Barakat.pdf"
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
