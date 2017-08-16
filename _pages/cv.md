@@ -4,6 +4,8 @@ title: "Short Curriculum Vitae"
 permalink: /cv/
 ---
 
+([Longer version as PDF](/CV_Mohamed_Barakat.pdf))
+
 since 2016
 :   Full professor of Mathematics at the [University of Siegen](https://www.uni-siegen.de/fb6/fb6/)
 
