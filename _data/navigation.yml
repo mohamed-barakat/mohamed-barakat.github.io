@@ -2,6 +2,8 @@
 main:
   - title: "Contact"
     url: /contact/
+  - title: "Research"
+    url: /pub/
   - title: "Teaching"
     url: /teaching/
   - title: "Short CV"
