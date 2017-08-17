@@ -4,6 +4,8 @@ title: "Teaching"
 permalink: /teaching/
 ---
 
+{% include toc %}
+
 ## [University of Siegen](http://www.mathematik.uni-siegen.de/)
 
  Semester | Course
