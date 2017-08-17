@@ -4,7 +4,7 @@ title: "Contact"
 permalink: /contact/
 ---
 
-<a class="social-btn" style="white-space: nowrap" href="https://www.google.de/maps/place/50°52'25.9%22N+8°00'18.2%22E/@50.873858,8.0039812,18z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d50.873858!4d8.005053" target="_blank" rel="noopener noreferrer">
+<a class="social-btn" style="white-space: nowrap" href="https://www.google.de/maps/place/50°52'25.9%22N+8°00'18.2%22E/@50.873858,8.0039812,18z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d50.873858!4d8.005053" rel="noopener noreferrer">
 <i class="fa fa-fw fa-map-marker" aria-hidden="true">
 University of Siegen <br>
 Department of Mathematics <br>
