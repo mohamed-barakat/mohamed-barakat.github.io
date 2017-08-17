@@ -7,7 +7,7 @@ permalink: /cv/
 ([Longer version as PDF](/CV_Mohamed_Barakat.pdf))
 
 since 2016
-:   Full professor of Mathematics at the [University of Siegen](https://www.uni-siegen.de/fb6/fb6/)
+:   Full professor of Mathematics at the [University of Siegen](http://www.mathematik.uni-siegen.de/)
 
 2015
 :   Deputy professorship at the [RWTH Aachen University](http://www.mathematik.rwth-aachen.de) (summer & winter semester 2015)
@@ -16,7 +16,7 @@ since 2016
 :   Deputy professorship at the [KU Eichstätt-Ingolstadt](http://www.ku.de/mgf/mathematik/) (summer semester 2014)
 
 2009-2015
-:   Lecturer at the [University of Kaiserslautern](http://www.mathematik.uni-kl.de/startseite/)
+:   Lecturer at the [University of Kaiserslautern](http://www.mathematik.uni-kl.de/)
 
 2010
 :   Habilitation in Mathematics at the [RWTH Aachen University](http://www.mathematik.rwth-aachen.de)
