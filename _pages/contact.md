@@ -15,7 +15,7 @@ Germany
 </i>
 </a>
 <br>
-(Room ENC-D 208)
+Room: ENC-D 208
 
 <br>
 <a class="social-btn" style="white-space: nowrap" href="tel:+49 271 740-3577" target="_blank" rel="noopener noreferrer">
