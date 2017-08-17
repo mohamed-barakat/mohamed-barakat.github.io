@@ -6,7 +6,7 @@ permalink: /teaching/
 
 {% include toc %}
 
-## [At the University of Siegen](https://lsf.zv.uni-siegen.de/qisserver/rds?state=verpublish&status=init&vmfile=no&moduleCall=webInfo&publishConfFile=webInfoPerson&publishSubDir=personal&keep=y&personal.pid=7694)
+## [At the University of Siegen (LSF)](https://lsf.zv.uni-siegen.de/qisserver/rds?state=verpublish&status=init&vmfile=no&moduleCall=webInfo&publishConfFile=webInfoPerson&publishSubDir=personal&keep=y&personal.pid=7694)
 
  Semester | Course
 ---------:|--------
@@ -17,7 +17,7 @@ permalink: /teaching/
    SS 16  | [Seminar Darstellungstheorie von Pfadalgebren](http://www.mathematik.uni-kl.de/~barakat/Lehre/SS16/Seminar_Pfadalgebren)
    SS 16  | [Lineare Algebra II](http://www.mathematik.uni-kl.de/~barakat/Lehre/SS16/LAII)
 
-## [At the RWTH Aachen University](https://www.campus.rwth-aachen.de/rwth/all/eventlist.asp?gguid=0x50F27056CE85D51196710000F4B4937D&mode=lecturer&title=&tguid=0x0B473CF286B45B4984CD02565C07D6F8)
+## [At the RWTH Aachen University (Campus)](https://www.campus.rwth-aachen.de/rwth/all/eventlist.asp?gguid=0x50F27056CE85D51196710000F4B4937D&mode=lecturer&title=&tguid=0x0B473CF286B45B4984CD02565C07D6F8)
 
  Semester | Course
 ---------:|--------
