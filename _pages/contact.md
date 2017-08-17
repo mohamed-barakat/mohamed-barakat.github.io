@@ -17,11 +17,9 @@ Germany
 <br>
 Room: ENC-D 208
 
-<br>
 <a class="social-btn" style="white-space: nowrap" href="tel:+49 271 740-3577" target="_blank" rel="noopener noreferrer">
   <i class="fa fa-fw fa-phone">+49 271 740-3577</i>
 </a>
-<br>
 
 Please click [here](http://www.mathematik.uni-siegen.de/anfahrt/index.html.en?lang=en) for directions.
 
