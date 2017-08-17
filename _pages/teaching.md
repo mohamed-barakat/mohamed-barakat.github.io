@@ -4,7 +4,9 @@ title: "Teaching"
 permalink: /teaching/
 ---
 
- Semester | Courses at the [University of Siegen](http://www.mathematik.uni-siegen.de/)
+## [University of Siegen](http://www.mathematik.uni-siegen.de/)
+
+ Semester | Course
 ---------:|--------
    SS 16  | [Seminar Darstellungstheorie von Liealgebren](http://www.mathematik.uni-kl.de/~barakat/Lehre/SS17/Seminar_Liealgebren)
    SS 16  | [Commutative Algebra](http://www.mathematik.uni-kl.de/~barakat/Lehre/SS17/CA)
@@ -13,19 +15,24 @@ permalink: /teaching/
    SS 16  | [Seminar Darstellungstheorie von Pfadalgebren](http://www.mathematik.uni-kl.de/~barakat/Lehre/SS16/Seminar_Pfadalgebren)
    SS 16  | [Lineare Algebra II](http://www.mathematik.uni-kl.de/~barakat/Lehre/SS16/LAII)
 
- Semester | Courses at the [RWTH Aachen University](http://www.mathematik.rwth-aachen.de/)
+## [RWTH Aachen University](http://www.mathematik.rwth-aachen.de/)
+
+ Semester | Course
 ---------:|--------
    WS 15  | [Seminar Hyperebenenkonfigurationen](http://www.mathematik.uni-kl.de/~barakat/Lehre/WS15/Seminar_Hyperebenenkonfigurationen)
    WS 15  | [Ebene Algebraische Kurven](http://www.mathematik.uni-kl.de/~barakat/Lehre/WS15/Ebene_Algebraische_Kurven)
    WS 15  | [Diskrete Strukturen](http://www.mathematik.uni-kl.de/~barakat/Lehre/WS15/Diskrete_Strukturen)
    SS 15  | [Toric Geometry](http://www.mathematik.uni-kl.de/~barakat/Lehre/SS15/Torische_Geometrie)
 
+## [KU Eichstätt-Ingolstadt](http://www.ku.de/mgf/mathematik/)
 
- Semester | Courses at the [KU Eichstätt-Ingolstadt](http://www.ku.de/mgf/mathematik/)
+ Semester | Course
 ---------:|--------
    SS 14  | [Grundlagen der Geometrie](http://www.mathematik.uni-kl.de/~barakat/Lehre/SS14/Grundlagen_der_Geometrie)
 
- Semester | Courses at the [University of Kaiserslautern](http://www.mathematik.uni-kl.de/)
+## [University of Kaiserslautern](http://www.mathematik.uni-kl.de/)
+
+ Semester | Course
 ---------:|--------
    WS 13  | [Introduction to algorithmic homological algebra](http://www.mathematik.uni-kl.de/~barakat/Lehre/WS13/HomologicalAlgebra)
    WS 13  | [Funktionentheorie](http://www.mathematik.uni-kl.de/~barakat/Lehre/WS13/Funktionentheorie)
