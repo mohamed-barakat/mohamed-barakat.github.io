@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Publications"
-permalink: /pub/
+permalink: /research/
 ---
 
 {% include toc %}
