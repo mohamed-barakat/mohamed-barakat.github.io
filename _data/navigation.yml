@@ -2,5 +2,7 @@
 main:
   - title: "Contact"
     url: /contact/
+  - title: "Teaching"
+    url: /teaching/
   - title: "Short CV"
     url: /cv/
