@@ -23,5 +23,5 @@ Room: ENC-D 208
 </a>
 <br>
 
-Please click [here](http://www.uni-siegen.de/fb6/fb6/anfahrt/index.html.en?lang=en) for directions.
+Please click [here](http://www.mathematik.uni-siegen.de/anfahrt/index.html.en?lang=en) for directions.
 
