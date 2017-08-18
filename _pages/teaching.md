@@ -12,8 +12,8 @@ Link to my page on the current Campus-Management-System [LSF](https://lsf.zv.uni
 
  Semester | Course
 ---------:|--------
-   SS 16  | [Seminar Darstellungstheorie von Liealgebren](http://www.mathematik.uni-kl.de/~barakat/Lehre/SS17/Seminar_Liealgebren)
-   SS 16  | [Commutative Algebra](http://www.mathematik.uni-kl.de/~barakat/Lehre/SS17/CA)
+   SS 17  | [Seminar Darstellungstheorie von Liealgebren](http://www.mathematik.uni-kl.de/~barakat/Lehre/SS17/Seminar_Liealgebren)
+   SS 17  | [Commutative Algebra](http://www.mathematik.uni-kl.de/~barakat/Lehre/SS17/CA)
    WS 16  | [Algorithmic homological algebra](http://www.mathematik.uni-kl.de/~barakat/Lehre/WS16/HomologicalAlgebra)
    WS 16  | [Algebra](http://www.mathematik.uni-kl.de/~barakat/Lehre/WS16/Algebra)
    SS 16  | [Seminar Darstellungstheorie von Pfadalgebren](http://www.mathematik.uni-kl.de/~barakat/Lehre/SS16/Seminar_Pfadalgebren)
