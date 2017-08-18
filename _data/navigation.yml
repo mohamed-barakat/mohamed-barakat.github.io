@@ -2,13 +2,13 @@
 main:
   - title: "Contact"
     url: /contact/
-  - title: "Short CV"
-    url: /cv/
+  - title: "Teaching"
+    url: /teaching/
   - title: "Research"
     url: /research/
   - title: "Software"
     url: /software/
-  - title: "Teaching"
-    url: /teaching/
+  - title: "Short CV"
+    url: /cv/
   - title: "Links"
     url: /links/
