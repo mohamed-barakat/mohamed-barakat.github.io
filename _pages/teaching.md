@@ -4,7 +4,7 @@ title: "Teaching"
 permalink: /teaching/
 ---
 
-{% include toc %}
+{% include toc title = "Teaching at the"%}
 
 ## [University of Siegen](http://www.mathematik.uni-siegen.de/)
 
