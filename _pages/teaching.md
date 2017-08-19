@@ -6,7 +6,7 @@ permalink: /teaching/
 
 {% include toc %}
 
-## [At the University of Siegen](http://www.mathematik.uni-siegen.de/)
+## [University of Siegen](http://www.mathematik.uni-siegen.de/)
 
 Link to my page on the current Campus-Management-System [LSF](https://lsf.zv.uni-siegen.de/qisserver/rds?state=verpublish&status=init&vmfile=no&moduleCall=webInfo&publishConfFile=webInfoPerson&publishSubDir=personal&keep=y&personal.pid=7694).
 
@@ -19,7 +19,7 @@ Link to my page on the current Campus-Management-System [LSF](https://lsf.zv.uni
    SS 16  | [Seminar Darstellungstheorie von Pfadalgebren](http://www.mathematik.uni-kl.de/~barakat/Lehre/SS16/Seminar_Pfadalgebren)
    SS 16  | [Lineare Algebra II](http://www.mathematik.uni-kl.de/~barakat/Lehre/SS16/LAII)
 
-## [At the RWTH Aachen University](http://www.mathematik.rwth-aachen.de/)
+## [RWTH Aachen University](http://www.mathematik.rwth-aachen.de/)
 
 Link to my old page on the Campus-Management-System [Campus](https://www.campus.rwth-aachen.de/rwth/all/eventlist.asp?gguid=0x50F27056CE85D51196710000F4B4937D&mode=lecturer&title=&tguid=0x0B473CF286B45B4984CD02565C07D6F8).
 
@@ -30,13 +30,13 @@ Link to my old page on the Campus-Management-System [Campus](https://www.campus.
    WS 15  | [Diskrete Strukturen](http://www.mathematik.uni-kl.de/~barakat/Lehre/WS15/Diskrete_Strukturen)
    SS 15  | [Toric Geometry](http://www.mathematik.uni-kl.de/~barakat/Lehre/SS15/Torische_Geometrie)
 
-## [At the KU Eichstätt-Ingolstadt](http://www.ku.de/mgf/mathematik/)
+## [KU Eichstätt-Ingolstadt](http://www.ku.de/mgf/mathematik/)
 
  Semester | Course
 ---------:|--------
    SS 14  | [Grundlagen der Geometrie](http://www.mathematik.uni-kl.de/~barakat/Lehre/SS14/Grundlagen_der_Geometrie)
 
-## [At the University of Kaiserslautern](http://www.mathematik.uni-kl.de/)
+## [University of Kaiserslautern](http://www.mathematik.uni-kl.de/)
 
  Semester | Course
 ---------:|--------
