@@ -30,3 +30,6 @@ ENC-D 208
   <i class="fa fa-fw fa-phone">+49 271 740-3577</i>
 </a>
 
+### Hint
+
+Here is [Thomas Breuer's guide (in German)](/VonAachenNachSiegen.pdf) to travel between Aachen and Siegen for less than 10 Euros ;)
