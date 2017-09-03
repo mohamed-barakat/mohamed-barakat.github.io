@@ -96,7 +96,7 @@ analytics:
 # Site Author
 author:
   name             : *name
-  avatar           : "https://s.gravatar.com/avatar/b6c912d83fae03c02faab2324de0acd3?s=80"
+  avatar           : "https://s.gravatar.com/avatar/b6c912d83fae03c02faab2324de0acd3?s=500"
   bio              : "Professor of mathematics"
   location         : "University of Siegen"
   email            : "mohamed.barakat@uni-siegen.de"
