@@ -14,7 +14,7 @@ permalink: /research/
 
 ## Preprints
 
-4 | Mohamed Barakat, Markus Lange-Hegermann and Seastian Posur, [*Elimination via homogenization*](http://arxiv.org/abs/1707.00925).
+4 | Mohamed Barakat, Markus Lange-Hegermann and Sebastian Posur, [*Elimination via homogenization*](http://arxiv.org/abs/1707.00925).
 3 | Mohamed Barakat and Markus Lange-Hegermann, [*Gabriel morphisms and the computability of Serre quotients with applications to coherent sheaves*](http://arxiv.org/abs/1409.2028).
 2 | Mohamed Barakat, [*Spectral filtrations via generalized morphisms*](http://arxiv.org/abs/0904.0240).
 1 | Mohamed Barakat and Barbara Bremer, [*Higher extension modules and the Yoneda product*](http://arxiv.org/abs/0802.3179).
