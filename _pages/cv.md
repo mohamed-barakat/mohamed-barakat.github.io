@@ -22,7 +22,7 @@ since 2016
 :   Habilitation in Mathematics at the [RWTH Aachen University](http://www.mathematik.rwth-aachen.de/)
 
 2008-2009
-:   Research assistant at the [Universitity of the Saarland](http://www.math.uni-sb.de/)
+:   Research assistant at the [Saarland University](http://www.math.uni-sb.de/)
 
 2002-2008
 :   Scientific assistent at the Lehrstuhl B für Mathematik, [RWTH Aachen University](http://www.mathematik.rwth-aachen.de/)
