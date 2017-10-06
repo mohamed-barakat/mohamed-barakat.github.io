@@ -12,6 +12,7 @@ Link to my page on the current Campus-Management-System [LSF](https://lsf.zv.uni
 
  Semester | Course
 ---------:|--------
+   WS 17  | [Lineare Algebra I](/teaching/W17/LA_I/)
    SS 17  | [Seminar Darstellungstheorie von Liealgebren](http://www.mathematik.uni-kl.de/~barakat/Lehre/SS17/Seminar_Liealgebren)
    SS 17  | [Commutative Algebra](http://www.mathematik.uni-kl.de/~barakat/Lehre/SS17/CA)
    WS 16  | [Algorithmic homological algebra](http://www.mathematik.uni-kl.de/~barakat/Lehre/WS16/HomologicalAlgebra)
