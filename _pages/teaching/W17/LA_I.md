@@ -17,6 +17,10 @@ Aktuelle Informationen und die Übungsaufgaben finden Sie auf der [Moodle-Seite 
 * Übungstermine:  [Siehe LSF-Eintrag](https://lsf.zv.uni-siegen.de/qisserver/rds?state=verpublish&status=init&vmfile=no&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung&publishid=109586). (Beginn: 16. Oktober)
 * Klausurtermin: (5.2.2018).
 
+### Klausur
+
+Mit dem Bestehen der Klausur am Ende des Semesters erhalten Sie den Leistungsnachweis bzw. die Prüfungsleistung.
+
 ### Skript
 
 Meine Vorlesungsnotizen werden den Zuhörer der Vorlesung mit einer Woche Verzögerung zur Verfügung gestellt.
