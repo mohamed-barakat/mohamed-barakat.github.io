@@ -13,3 +13,7 @@ Bitte melden Sie sich zur Veranstaltung im [LSF](https://lsf.zv.uni-siegen.de/qi
 ### Termine
 
 * Parktikumstermine: [Siehe LSF-Eintrag](https://lsf.zv.uni-siegen.de/qisserver/rds?state=verpublish&status=init&vmfile=no&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung&veranstaltung.veranstid=109035). (Beginn: Sobald das neue CIP-Pool fertiggestellt ist, voraussichtlich am 6. November.)
+
+### Blätter
+
+1. [Blatt01](http://www.mathematik.uni-kl.de/~barakat/Lehre/WS17/PraktikumI/Uebungen/blatt01.pdf)
