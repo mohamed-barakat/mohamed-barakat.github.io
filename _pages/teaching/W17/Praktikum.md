@@ -17,3 +17,4 @@ Bitte melden Sie sich zur Veranstaltung im [LSF](https://lsf.zv.uni-siegen.de/qi
 ### Blätter
 
 1. [Blatt01](http://www.mathematik.uni-kl.de/~barakat/Lehre/WS17/PraktikumI/Uebungen/blatt01.pdf)
+2. [Blatt02](http://www.mathematik.uni-kl.de/~barakat/Lehre/WS17/PraktikumI/Uebungen/blatt02.pdf)
