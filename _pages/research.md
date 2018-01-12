@@ -46,7 +46,7 @@ permalink: /research/
 ## Non-refereed publications
 
 6 | Mohamed Barakat, Max Horn, Frank L&uuml;beck, Oleksandr Motsak, Max Neunh&ouml;ffer, and Hans Sch&ouml;nemann, [*The GAP package SingularInterface*](http://www.fachgruppe-computeralgebra.de/data/CA-Rundbrief/car55.pdf). Computeralgebra-Rundbrief (2014), 29-33.
-5 | Mohamed Barakat, [*Computations of unitary groups in characteristic 2*](http://www.mathematik.uni-kl.de/~barakat/forJPSerre/UnitaryGroup.pdf). (for J.-P. Serre) (2013).
+5 | Mohamed Barakat, [*Computations of unitary groups in characteristic 2*](https://www.mathb.rwth-aachen.de/~barakat/forJPSerre/UnitaryGroup.pdf). (for J.-P. Serre) (2013).
 4 | Mohamed Barakat, [*Computing Ext in Serre quotient categories*](http://www.mfo.de/document/1320b/OWR_2013_25.pdf). Mini-Workshop: Algebraic and Analytic Techniques for Polynomial Vector Fields, MFO report no. 57 (2013), 19-21.
 3 | Mohamed Barakat and Markus Lange-Hegermann, [*The homalg project*](http://www.fachgruppe-computeralgebra.de/data/CA-Rundbrief/car51.pdf). Computeralgebra Rundbrief (2012), 6-9.
 2 | Mohamed Barakat, [*Jet groupoids and the invariance of geometric structures*](http://www.mfo.de/document/1050c/OWR_2010_57.pdf). Mini-Workshop: Algebraic and Analytic Techniques for Polynomial Vector Fields, MFO report no. 57 (2010), 19-21.

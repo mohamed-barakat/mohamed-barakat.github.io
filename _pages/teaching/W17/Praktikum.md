@@ -16,7 +16,7 @@ Bitte melden Sie sich zur Veranstaltung im [LSF](https://lsf.zv.uni-siegen.de/qi
 
 ### Blätter
 
-1. [Blatt01](http://www.mathematik.uni-kl.de/~barakat/Lehre/WS17/PraktikumI/Uebungen/blatt01.pdf)
-2. [Blatt02](http://www.mathematik.uni-kl.de/~barakat/Lehre/WS17/PraktikumI/Uebungen/blatt02.pdf)
-3. [Blatt03](http://www.mathematik.uni-kl.de/~barakat/Lehre/WS17/PraktikumI/Uebungen/blatt03.pdf)
-4. [Blatt04](http://www.mathematik.uni-kl.de/~barakat/Lehre/WS17/PraktikumI/Uebungen/blatt04.pdf)
+1. [Blatt01](https://www.mathb.rwth-aachen.de/~barakat/Lehre/WS17/PraktikumI/Uebungen/blatt01.pdf)
+2. [Blatt02](https://www.mathb.rwth-aachen.de/~barakat/Lehre/WS17/PraktikumI/Uebungen/blatt02.pdf)
+3. [Blatt03](https://www.mathb.rwth-aachen.de/~barakat/Lehre/WS17/PraktikumI/Uebungen/blatt03.pdf)
+4. [Blatt04](https://www.mathb.rwth-aachen.de/~barakat/Lehre/WS17/PraktikumI/Uebungen/blatt04.pdf)
