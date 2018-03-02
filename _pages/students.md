@@ -8,5 +8,5 @@ Current PhD students:
 
 Former PhD students:
 * [Martin Bies](https://github.com/HereAround)
-* [Sebastian Gutsche](https://github.com/sebasguts)
-* [Sebastian Posur](https://sebastianpos.github.io)
+* [Sebastian Gutsche](https://sebasguts.github.io/)
+* [Sebastian Posur](https://sebastianpos.github.io/)
