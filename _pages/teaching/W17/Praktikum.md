@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Praktikum Computeralgebra"
-permalink: /teaching/W17/PraktikumCA_I/
+permalink: /teaching/W17/PraktikumCA/
 ---
 
 ## Wintersemester 2017/18
