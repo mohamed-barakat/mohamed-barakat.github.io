@@ -16,3 +16,4 @@ permalink: /teaching/S18/PraktikumCA/
 
 ### Blätter
 
+1. [Blatt01](https://www.mathb.rwth-aachen.de/~barakat/Lehre/SS18/Praktikum/Uebungen/blatt01.pdf)
