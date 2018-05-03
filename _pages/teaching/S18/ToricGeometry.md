@@ -8,11 +8,8 @@ permalink: /teaching/S18/TG/
 
 ### Aktuelles
 
+Aktuelle Informationen und die Übungsaufgaben finden Sie auf der [Moodle-Seite der Vorlesung](https://moodle.uni-siegen.de/course/view.php?id=17857).
+
 ### Skript
 
 Meine Vorlesungsnotizen werden den Zuhörer der Vorlesung mit einer Woche Verzögerung zur Verfügung gestellt.
-
-### Assignments
-
-1. [ueb01](https://www.mathb.rwth-aachen.de/~barakat/Lehre/SS18/Toric_Geometry/Uebungen/ueb01.pdf)
-2. [ueb02](https://www.mathb.rwth-aachen.de/~barakat/Lehre/SS18/Toric_Geometry/Uebungen/ueb02.pdf)
