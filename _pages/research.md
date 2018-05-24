@@ -9,7 +9,7 @@ permalink: /research/
 ([Zentralblatt MATH](http://zbmath.org/?q=(barakat.mohamed)+ai:barakat.mohamed),
  [MathSciNet](http://ams.math.uni-bielefeld.de/mathscinet/search/publications.html?pg1=IID&s1=706483),
  [Google Scholar](http://scholar.google.com/citations?hl=en&user=Ca36-0MAAAAJ),
- [arXiv](http://arxiv.org/find/math/1/au:+Barakat_Mohamed/0/1/0/all/0/1?skip=0))
+ [arXiv](https://arxiv.org/search/?query=Barakat%2C+Mohamed&searchtype=author&order=-announced_date_first&size=50))
 
 
 ## Preprints
