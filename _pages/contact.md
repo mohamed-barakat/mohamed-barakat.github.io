@@ -18,7 +18,7 @@ Germany
 </a>
 <br>
 
-([How to reach the campus?](http://www.mathematik.uni-siegen.de/anfahrt/index.html.en?lang=en))
+([How to reach the campus?](http://www.physik.uni-siegen.de/anfahrt/index.html.en?lang=en))
 
 ### Room
 
