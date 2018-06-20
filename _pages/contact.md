@@ -20,6 +20,10 @@ Germany
 
 ([How to reach the campus?](http://www.physik.uni-siegen.de/anfahrt/index.html.en?lang=en))
 
+### Email
+
+[mohamed.barakat@uni-siegen.de](mailto:mohamed.barakat@uni-siegen.de)
+
 ### Room
 
 ENC-D 208
