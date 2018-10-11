@@ -12,6 +12,8 @@ Link to my page on the current Campus-Management-System [unisono](https://unison
 
  Semester | Course
 ---------:|--------
+   W 18  | [Algorithmische Algebra](/teaching/W18/AA/)
+   W 18  | [Praktikum Computeralgebra I & II](/teaching/W18/PraktikumCA/)
    S 18  | [Lineare Algebra II](/teaching/S18/LA_II/)
    S 18  | [Praktikum Computeralgebra I & II](/teaching/S18/PraktikumCA/)
    S 18  | [Toric Geometry](/teaching/S18/TG/)
