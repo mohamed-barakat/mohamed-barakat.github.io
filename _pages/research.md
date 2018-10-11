@@ -22,7 +22,7 @@ permalink: /research/
 
 ## Refereed publications
 
-19 | Mohamed Barakat and Markus Lange-Hegermann, [*A constructive approach to the module of twisted global sections on relative projective spaces*](http://arxiv.org/abs/1409.6100). To appear in Algorithmic and Experimental Methods in Algebra, Geometry, and Number Theory, Springer.
+19 | Mohamed Barakat and Markus Lange-Hegermann, [*A constructive approach to the module of twisted global sections on relative projective spaces*](http://arxiv.org/abs/1409.6100). Algorithmic and Experimental Methods in Algebra, Geometry, and Number Theory, Springer, (2017) 23-49.
 18 | Takuro Abe, Mohamed Barakat, Michael Cuntz, Torsten Hoge, and Hiroaki Terao, [*The freeness of ideal subarrangements of Weyl arrangements*](http://arxiv.org/abs/1304.8033). Journal of the Eur. Math. Soc. <b>18</b>,6 (2016), 1339-1348.
 17 | Mohamed Barakat, [*On subdirect factors of a projective module and applications to system theory*](http://arxiv.org/abs/1305.0058). Multidimensional Systems and Signal Processing <b>26</b>,2 (2015), 339-348.
 16 | Mohamed Barakat and Markus Lange-Hegermann, [*On the Ext-computability of Serre quotient categories*](http://arxiv.org/abs/1212.4068). Journal of Algebra <b>420</b> (2014), 333-349.
