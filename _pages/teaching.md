@@ -12,13 +12,13 @@ Link to my page on the current Campus-Management-System [unisono](https://unison
 
  Semester | Course
 ---------:|--------
-   W 18  | [Algorithmische Algebra](/teaching/W18/AA/)
-   W 18  | [Praktikum Computeralgebra I & II](/teaching/W18/PraktikumCA/)
-   S 18  | [Lineare Algebra II](/teaching/S18/LA_II/)
-   S 18  | [Praktikum Computeralgebra I & II](/teaching/S18/PraktikumCA/)
-   S 18  | [Toric Geometry](/teaching/S18/TG/)
-   W 17  | [Lineare Algebra I](/teaching/W17/LA_I/)
-   W 17  | [Praktikum Computeralgebra I](/teaching/W17/PraktikumCA/)
+   W 18  | [Algorithmische Algebra]({{site.baseurl}}/teaching/W18/AA/)
+   W 18  | [Praktikum Computeralgebra I & II]({{site.baseurl}}/teaching/W18/PraktikumCA/)
+   S 18  | [Lineare Algebra II]({{site.baseurl}}/teaching/S18/LA_II/)
+   S 18  | [Praktikum Computeralgebra I & II]({{site.baseurl}}/teaching/S18/PraktikumCA/)
+   S 18  | [Toric Geometry]({{site.baseurl}}/teaching/S18/TG/)
+   W 17  | [Lineare Algebra I]({{site.baseurl}}/teaching/W17/LA_I/)
+   W 17  | [Praktikum Computeralgebra I]({{site.baseurl}}/teaching/W17/PraktikumCA/)
    S 17  | [Seminar Darstellungstheorie von Liealgebren](http://www.algebra.mathematik.uni-siegen.de/barakat/Lehre/SS17/Seminar_Liealgebren)
    S 17  | [Commutative Algebra](http://www.algebra.mathematik.uni-siegen.de/barakat/Lehre/SS17/CA)
    W 16  | [Algorithmic homological algebra](http://www.algebra.mathematik.uni-siegen.de/barakat/Lehre/WS16/HomologicalAlgebra)
