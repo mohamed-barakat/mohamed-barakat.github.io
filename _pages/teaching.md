@@ -12,6 +12,8 @@ Link to my page on the current Campus-Management-System [unisono](https://unison
 
  Semester | Course
 ---------:|--------
+   S 19  | [Algebra]({{site.baseurl}}/teaching/S19/Algebra/)
+   S 19  | [Praktikum Computeralgebra I & II]({{site.baseurl}}/teaching/S19/PraktikumCA/)
    W 18  | [Algorithmische Algebra]({{site.baseurl}}/teaching/W18/AA/)
    W 18  | [Praktikum Computeralgebra I & II]({{site.baseurl}}/teaching/W18/PraktikumCA/)
    S 18  | [Lineare Algebra II]({{site.baseurl}}/teaching/S18/LA_II/)
