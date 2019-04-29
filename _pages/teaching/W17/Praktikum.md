@@ -16,8 +16,4 @@ Bitte melden Sie sich zur Veranstaltung im [LSF](https://lsf.zv.uni-siegen.de/qi
 
 ### Blätter
 
-1. [Blatt01](http://www.algebra.mathematik.uni-siegen.de/barakat/Lehre/WS17/PraktikumI/Uebungen/blatt01.pdf)
-2. [Blatt02](http://www.algebra.mathematik.uni-siegen.de/barakat/Lehre/WS17/PraktikumI/Uebungen/blatt02.pdf)
-3. [Blatt03](http://www.algebra.mathematik.uni-siegen.de/barakat/Lehre/WS17/PraktikumI/Uebungen/blatt03.pdf)
-4. [Blatt04](http://www.algebra.mathematik.uni-siegen.de/barakat/Lehre/WS17/PraktikumI/Uebungen/blatt04.pdf)
-5. [Blatt05](http://www.algebra.mathematik.uni-siegen.de/barakat/Lehre/WS17/PraktikumI/Uebungen/blatt05.pdf)
+Stehen den Teilnehmern zur Verfügung.

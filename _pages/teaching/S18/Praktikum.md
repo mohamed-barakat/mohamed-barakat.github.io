@@ -16,8 +16,4 @@ permalink: /teaching/S18/PraktikumCA/
 
 ### Blätter
 
-1. [Blatt01](http://www.algebra.mathematik.uni-siegen.de/barakat/Lehre/SS18/Praktikum/Uebungen/blatt01.pdf)
-2. [Blatt02](http://www.algebra.mathematik.uni-siegen.de/barakat/Lehre/SS18/Praktikum/Uebungen/blatt02.pdf)
-3. [Blatt03](http://www.algebra.mathematik.uni-siegen.de/barakat/Lehre/SS18/Praktikum/Uebungen/blatt03.pdf)
-4. [Blatt04](http://www.algebra.mathematik.uni-siegen.de/barakat/Lehre/SS18/Praktikum/Uebungen/blatt04.pdf)
-5. [Blatt05](http://www.algebra.mathematik.uni-siegen.de/barakat/Lehre/SS18/Praktikum/Uebungen/blatt05.pdf)
+Stehen den Teilnehmern zur Verfügung.
