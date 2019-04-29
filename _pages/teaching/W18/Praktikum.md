@@ -14,4 +14,4 @@ permalink: /teaching/W18/PraktikumCA/
 
 ### Blätter
 
-1. [Blatt01](http://www.algebra.mathematik.uni-siegen.de/barakat/Lehre/WS18/Praktikum/Uebungen/blatt01.pdf)
+Stehen den Teilnehmern zur Verfügung.
