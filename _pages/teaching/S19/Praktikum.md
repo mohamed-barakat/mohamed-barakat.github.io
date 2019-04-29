@@ -17,3 +17,4 @@ permalink: /teaching/S19/PraktikumCA/
 1. [Blatt01](http://www.algebra.mathematik.uni-siegen.de/barakat/Lehre/SS19/Praktikum/Uebungen/blatt01.pdf)
 1. [Blatt02](http://www.algebra.mathematik.uni-siegen.de/barakat/Lehre/SS19/Praktikum/Uebungen/blatt02.pdf)
 1. [Blatt03](http://www.algebra.mathematik.uni-siegen.de/barakat/Lehre/SS19/Praktikum/Uebungen/blatt03.pdf)
+1. [Blatt04](http://www.algebra.mathematik.uni-siegen.de/barakat/Lehre/SS19/Praktikum/Uebungen/blatt04.pdf)
