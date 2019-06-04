@@ -86,11 +86,11 @@ social:
     - "https://twitter.com/math_barakat"
 
 # Analytics
-analytics:
-  provider               : "google-universal" # false (default), "google", "google-universal", "google-gtag", "custom"
-  google:
-    tracking_id          : "UA-6797136-2"
-    anonymize_ip         : # true, false (default)
+#analytics:
+#  provider               : "google-universal" # false (default), "google", "google-universal", "google-gtag", "custom"
+#  google:
+#    tracking_id          : "UA-6797136-2"
+#    anonymize_ip         : # true, false (default)
 
 
 # Site Author
