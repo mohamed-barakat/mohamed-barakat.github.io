@@ -14,6 +14,7 @@ permalink: /research/
 
 ## Preprints
 
+5 | Mohamed Barakat, Reimer Behrends, Christopher Jefferson, Lukas Kühne, Martin Leuner, [*On the generation of rank 3 simple matroids with an application to Terao's freeness conjecture*](http://arxiv.org/abs/1907.01073).
 4 | Mohamed Barakat, Markus Lange-Hegermann and Sebastian Posur, [*Elimination via saturation*](http://arxiv.org/abs/1707.00925).
 3 | Mohamed Barakat and Markus Lange-Hegermann, [*Gabriel morphisms and the computability of Serre quotients with applications to coherent sheaves*](http://arxiv.org/abs/1409.2028).
 2 | Mohamed Barakat, [*Spectral filtrations via generalized morphisms*](http://arxiv.org/abs/0904.0240).
