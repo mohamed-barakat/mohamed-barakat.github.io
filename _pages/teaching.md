@@ -12,6 +12,9 @@ Link to my page on the current Campus-Management-System [unisono](https://unison
 
  Semester | Course
 ---------:|--------
+   W 19  | [Commutative Algebra]({{site.baseurl}}/teaching/W19/CA/)
+   W 19  | [Praktikum Computeralgebra I & II]({{site.baseurl}}/teaching/W19/PraktikumCA/)
+   W 19  | [Seminar Lie-Algebren]({{site.baseurl}}/teaching/W19/SeminarLie/)
    S 19  | [Algebra]({{site.baseurl}}/teaching/S19/Algebra/)
    S 19  | [Praktikum Computeralgebra I & II]({{site.baseurl}}/teaching/S19/PraktikumCA/)
    W 18  | [Algorithmische Algebra]({{site.baseurl}}/teaching/W18/AA/)
