@@ -19,3 +19,4 @@ permalink: /teaching/W19/PraktikumCA/
 3. [Blatt03](http://www.algebra.mathematik.uni-siegen.de/barakat/Lehre/WS19/Praktikum/Uebungen/blatt03.pdf)
 4. [Blatt04](http://www.algebra.mathematik.uni-siegen.de/barakat/Lehre/WS19/Praktikum/Uebungen/blatt04.pdf)
 5. [Blatt05](http://www.algebra.mathematik.uni-siegen.de/barakat/Lehre/WS19/Praktikum/Uebungen/blatt05.pdf)
+6. [Blatt06](http://www.algebra.mathematik.uni-siegen.de/barakat/Lehre/WS19/Praktikum/Uebungen/blatt06.pdf)
