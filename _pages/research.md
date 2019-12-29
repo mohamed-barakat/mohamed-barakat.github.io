@@ -14,12 +14,10 @@ permalink: /research/
 
 ## Preprints
 
-6 | Mohamed Barakat and Markus Lange-Hegermann [*An algorithmic approach to Chevalley's Theorem on images of rational morphisms between affine varieties*](http://arxiv.org/abs/1911.10411).
-5 | Mohamed Barakat, Reimer Behrends, Christopher Jefferson, Lukas Kühne and Martin Leuner, [*On the generation of rank 3 simple matroids with an application to Terao's freeness conjecture*](http://arxiv.org/abs/1907.01073).
-4 | Mohamed Barakat, Markus Lange-Hegermann and Sebastian Posur, [*Elimination via saturation*](http://arxiv.org/abs/1707.00925).
-3 | Mohamed Barakat and Markus Lange-Hegermann, [*Gabriel morphisms and the computability of Serre quotients with applications to coherent sheaves*](http://arxiv.org/abs/1409.2028).
-2 | Mohamed Barakat, [*Spectral filtrations via generalized morphisms*](http://arxiv.org/abs/0904.0240).
-1 | Mohamed Barakat and Barbara Bremer, [*Higher extension modules and the Yoneda product*](http://arxiv.org/abs/0802.3179).
+4 | Mohamed Barakat and Markus Lange-Hegermann [*An algorithmic approach to Chevalley's Theorem on images of rational morphisms between affine varieties*](http://arxiv.org/abs/1911.10411).
+3 | Mohamed Barakat, Reimer Behrends, Christopher Jefferson, Lukas Kühne and Martin Leuner, [*On the generation of rank 3 simple matroids with an application to Terao's freeness conjecture*](http://arxiv.org/abs/1907.01073).
+2 | Mohamed Barakat, Markus Lange-Hegermann and Sebastian Posur, [*Elimination via saturation*](http://arxiv.org/abs/1707.00925).
+1 | Mohamed Barakat and Markus Lange-Hegermann, [*Gabriel morphisms and the computability of Serre quotients with applications to coherent sheaves*](http://arxiv.org/abs/1409.2028).
 
 
 ## Refereed publications
@@ -47,12 +45,14 @@ permalink: /research/
 
 ## Non-refereed publications
 
-6 | Mohamed Barakat, Max Horn, Frank L&uuml;beck, Oleksandr Motsak, Max Neunh&ouml;ffer, and Hans Sch&ouml;nemann, [*The GAP package SingularInterface*](http://www.fachgruppe-computeralgebra.de/data/CA-Rundbrief/car55.pdf). Computeralgebra-Rundbrief (2014), 29-33.
-5 | Mohamed Barakat, [*Computations of unitary groups in characteristic 2*](http://www.algebra.mathematik.uni-siegen.de/barakat/forJPSerre/UnitaryGroup.pdf). (for J.-P. Serre) (2013).
-4 | Mohamed Barakat, [*Computing Ext in Serre quotient categories*](http://www.mfo.de/document/1320b/OWR_2013_25.pdf). Mini-Workshop: Algebraic and Analytic Techniques for Polynomial Vector Fields, MFO report no. 57 (2013), 19-21.
-3 | Mohamed Barakat and Markus Lange-Hegermann, [*The homalg project*](http://www.fachgruppe-computeralgebra.de/data/CA-Rundbrief/car51.pdf). Computeralgebra Rundbrief (2012), 6-9.
-2 | Mohamed Barakat, [*Jet groupoids and the invariance of geometric structures*](http://www.mfo.de/document/1050c/OWR_2010_57.pdf). Mini-Workshop: Algebraic and Analytic Techniques for Polynomial Vector Fields, MFO report no. 57 (2010), 19-21.
-1 | Mohamed Barakat, [*Spectral Sequences and Effective Computations*](http://www.mfo.de/document/0946b/OWR_2009_50.pdf). Mini-Workshop: Formal Methods in Commutative Algebra: A View Toward Constructive Homological Algebra, MFO report no. 50 (2009), 7-12.
+8 | Mohamed Barakat, Max Horn, Frank L&uuml;beck, Oleksandr Motsak, Max Neunh&ouml;ffer, and Hans Sch&ouml;nemann, [*The GAP package SingularInterface*](http://www.fachgruppe-computeralgebra.de/data/CA-Rundbrief/car55.pdf). Computeralgebra-Rundbrief (2014), 29-33.
+7 | Mohamed Barakat, [*Computations of unitary groups in characteristic 2*](http://www.algebra.mathematik.uni-siegen.de/barakat/forJPSerre/UnitaryGroup.pdf). (for J.-P. Serre) (2013).
+6 | Mohamed Barakat, [*Computing Ext in Serre quotient categories*](http://www.mfo.de/document/1320b/OWR_2013_25.pdf). Mini-Workshop: Algebraic and Analytic Techniques for Polynomial Vector Fields, MFO report no. 57 (2013), 19-21.
+5 | Mohamed Barakat and Markus Lange-Hegermann, [*The homalg project*](http://www.fachgruppe-computeralgebra.de/data/CA-Rundbrief/car51.pdf). Computeralgebra Rundbrief (2012), 6-9.
+4 | Mohamed Barakat, [*Jet groupoids and the invariance of geometric structures*](http://www.mfo.de/document/1050c/OWR_2010_57.pdf). Mini-Workshop: Algebraic and Analytic Techniques for Polynomial Vector Fields, MFO report no. 57 (2010), 19-21.
+3 | Mohamed Barakat, [*Spectral Sequences and Effective Computations*](http://www.mfo.de/document/0946b/OWR_2009_50.pdf). Mini-Workshop: Formal Methods in Commutative Algebra: A View Toward Constructive Homological Algebra, MFO report no. 50 (2009), 7-12.
+2 | Mohamed Barakat, [*Spectral filtrations via generalized morphisms*](http://arxiv.org/abs/0904.0240).
+1 | Mohamed Barakat and Barbara Bremer, [*Higher extension modules and the Yoneda product*](http://arxiv.org/abs/0802.3179).
 
 
 ## Theses
