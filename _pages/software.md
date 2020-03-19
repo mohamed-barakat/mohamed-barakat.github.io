@@ -11,3 +11,8 @@ permalink: /software/
 
 * [My github repositories](https://github.com/mohamed-barakat?tab=repositories)
 * [The homalg repositories](https://github.com/homalg-project?tab=repositories)
+
+
+|[![homalg-project](https://algebra.mathematik.uni-siegen.de/img/lines_of_code.png)]()|
+|:---:|
+| Lines of code of all packages we develop on [https://github.com/homalg-project](https://github.com/homalg-project) |
