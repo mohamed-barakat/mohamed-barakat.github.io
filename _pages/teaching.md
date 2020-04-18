@@ -12,6 +12,9 @@ Link to my page on the current Campus-Management-System [unisono](https://unison
 
 Semester | Course
 --------:|--------
+   S 20  | [Topics in Algebraic Geometry]({{site.baseurl}}/teaching/S20/AG/)
+   S 20  | [Seminar Lie-Algebren]({{site.baseurl}}/teaching/S20/SeminarLie/)
+   S 20  | [Praktikum Computeralgebra I & II]({{site.baseurl}}/teaching/S20/PraktikumCA/)
    W 19  | [Commutative Algebra]({{site.baseurl}}/teaching/W19/CA/)
    W 19  | [Praktikum Computeralgebra I & II]({{site.baseurl}}/teaching/W19/PraktikumCA/)
    S 19  | [Algebra]({{site.baseurl}}/teaching/S19/Algebra/)
