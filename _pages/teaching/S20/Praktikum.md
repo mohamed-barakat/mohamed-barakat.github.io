@@ -14,5 +14,5 @@ permalink: /teaching/S20/PraktikumCA/
 
 ### Blätter
 
-1. [Blatt01](http://www.algebra.mathematik.uni-siegen.de/barakat/Lehre/SS20/Praktikum/Uebungen/blatt01.pdf)
-2. [Blatt02](http://www.algebra.mathematik.uni-siegen.de/barakat/Lehre/SS20/Praktikum/Uebungen/blatt02.pdf)
+1. [Blatt01](https://algebra.mathematik.uni-siegen.de/barakat/Lehre/SS20/Praktikum/Uebungen/blatt01.pdf)
+2. [Blatt02](https://algebra.mathematik.uni-siegen.de/barakat/Lehre/SS20/Praktikum/Uebungen/blatt02.pdf)
