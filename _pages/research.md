@@ -30,23 +30,23 @@ permalink: /research/
 14 | Mohamed Barakat and Markus Lange-Hegermann, [*On monads of exact reflective localizations of Abelian categories*](http://arxiv.org/abs/1202.3337). Homology, Homotopy and Applications <b>15</b>,2 (2013), 145-151.
 13 | Mohamed Barakat and Michael Cuntz, [*Coxeter and crystallographic arrangements are inductively free*](http://arxiv.org/abs/1011.4228). Adv. Math. <b>229</b>, no. 1 (2012), 691-709.
 12 | Mohamed Barakat and Markus Lange-Hegermann, [*An Axiomatic Setup for Algorithmic Homological Algebra and an Alternative Approach to Localization*](http://arxiv.org/abs/1003.1943). J. Algebra Appl. <b>10</b>, no. 2 (2011), 269-293.
-11 | Mohamed Barakat and Simon G&ouml;rtzen, [*Simplicial cohomology of smooth orbifolds in GAP*](http://www.algebra.mathematik.uni-siegen.de/barakat/ICMS10/SCO.pdf). Proceedings of the ICMS (Kobe, Japan), Lecture Notes in Computer Science <b>6327</b> (2010), 46-49.
+11 | Mohamed Barakat and Simon G&ouml;rtzen, [*Simplicial cohomology of smooth orbifolds in GAP*](https://algebra.mathematik.uni-siegen.de/barakat/ICMS10/SCO.pdf). Proceedings of the ICMS (Kobe, Japan), Lecture Notes in Computer Science <b>6327</b> (2010), 46-49.
 10 | Mohamed Barakat, [*Conley Index Theory*](http://www.conferences.hu/mtns2010/proceedings/Papers/286_472.pdf). Proceedings of the MTNS (Budapest, Hungary) (2010), 1645-1651.
 9 | Mohamed Barakat, [*Purity Filtration and the Fine Structure of Autonomy*](http://www.conferences.hu/mtns2010/proceedings/Papers/288_451.pdf). Proceedings of the MTNS (Budapest, Hungary) (2010), 1657-1661.
-8 | Mohamed Barakat and Stanislaus Maier-Paape, [*Computation of connection matrices using the software package conley*](http://www.algebra.mathematik.uni-siegen.de/barakat/CH/ch.pdf). Internat. J. Bifur. Chaos Appl. Sci. Engrg. <b>19</b>, no. 9 (2009), 3033-3056.
+8 | Mohamed Barakat and Stanislaus Maier-Paape, [*Computation of connection matrices using the software package conley*](https://algebra.mathematik.uni-siegen.de/barakat/CH/ch.pdf). Internat. J. Bifur. Chaos Appl. Sci. Engrg. <b>19</b>, no. 9 (2009), 3033-3056.
 7 | Mohamed Barakat and Daniel Robertz, [*conley: computing connection matrices in Maple*](http://arxiv.org/abs/math.DS/0701173). J. Symbolic Comput. <b>44</b>, no. 5 (2009), 540-557.
 6 | Mohamed Barakat and Daniel Robertz, [*homalg - A Meta-Package for Homological Algebra*](http://arxiv.org/abs/math.AC/0701146). J. Algebra Appl. <b>7</b>, no. 3 (2008), 299-317.
-5 | Mohamed Barakat and Daniel Robertz, [*Computing invariants of multidimensional linear systems on an abstract homological level*](http://www.algebra.mathematik.uni-siegen.de/barakat/mtns/homalg_mtns06.pdf). MTNS Proceedings, Kyoto, Japan (2006), 542-559.
-4 | Mohamed Barakat and Daniel Robertz, [*homalg: First steps to an abstract package for homological algebra*](http://www.algebra.mathematik.uni-siegen.de/barakat/eaca/homalg_eaca06.pdf). EACA Proceedings, Sevilla, Spain (2006), 29-32.
+5 | Mohamed Barakat and Daniel Robertz, [*Computing invariants of multidimensional linear systems on an abstract homological level*](https://algebra.mathematik.uni-siegen.de/barakat/mtns/homalg_mtns06.pdf). MTNS Proceedings, Kyoto, Japan (2006), 542-559.
+4 | Mohamed Barakat and Daniel Robertz, [*homalg: First steps to an abstract package for homological algebra*](https://algebra.mathematik.uni-siegen.de/barakat/eaca/homalg_eaca06.pdf). EACA Proceedings, Sevilla, Spain (2006), 29-32.
 3 | Mohamed Barakat, [*The existence of Cartan connections and geometrizable principal bundles*](http://arxiv.org/abs/math.DG/0206136). Arch. Math. <b>83</b>, no. 2 (2004), 159-163.
-2 | Mohamed Barakat, [*jets. A MAPLE-package for formal differential geometry*](http://www.algebra.mathematik.uni-siegen.de/barakat/casc/casc.pdf). Computer algebra in scientific computing, (EACA Konstanz), Springer, Berlin (2001), 1-12.
+2 | Mohamed Barakat, [*jets. A MAPLE-package for formal differential geometry*](https://algebra.mathematik.uni-siegen.de/barakat/casc/casc.pdf). Computer algebra in scientific computing, (EACA Konstanz), Springer, Berlin (2001), 1-12.
 1 | Mohamed Barakat and Martin Oberlack, Reduction and long time behaviour of homogeneous turbulence under spatially constant mean-velocity gradient. Advances in turbulence VIII: Proc. of the 8th European Turbulence Conference, Barcelona, Spain (2000), 865-868.
 
 
 ## Non-refereed publications
 
 8 | Mohamed Barakat, Max Horn, Frank L&uuml;beck, Oleksandr Motsak, Max Neunh&ouml;ffer, and Hans Sch&ouml;nemann, [*The GAP package SingularInterface*](http://www.fachgruppe-computeralgebra.de/data/CA-Rundbrief/car55.pdf). Computeralgebra-Rundbrief (2014), 29-33.
-7 | Mohamed Barakat, [*Computations of unitary groups in characteristic 2*](http://www.algebra.mathematik.uni-siegen.de/barakat/forJPSerre/UnitaryGroup.pdf). (for J.-P. Serre) (2013).
+7 | Mohamed Barakat, [*Computations of unitary groups in characteristic 2*](https://algebra.mathematik.uni-siegen.de/barakat/forJPSerre/UnitaryGroup.pdf). (for J.-P. Serre) (2013).
 6 | Mohamed Barakat, [*Computing Ext in Serre quotient categories*](http://www.mfo.de/document/1320b/OWR_2013_25.pdf). Mini-Workshop: Algebraic and Analytic Techniques for Polynomial Vector Fields, MFO report no. 57 (2013), 19-21.
 5 | Mohamed Barakat and Markus Lange-Hegermann, [*The homalg project*](http://www.fachgruppe-computeralgebra.de/data/CA-Rundbrief/car51.pdf). Computeralgebra Rundbrief (2012), 6-9.
 4 | Mohamed Barakat, [*Jet groupoids and the invariance of geometric structures*](http://www.mfo.de/document/1050c/OWR_2010_57.pdf). Mini-Workshop: Algebraic and Analytic Techniques for Polynomial Vector Fields, MFO report no. 57 (2010), 19-21.
@@ -57,6 +57,6 @@ permalink: /research/
 
 ## Theses
 
-| [*Pro-nilpotente Lie Algebren*](http://www.algebra.mathematik.uni-siegen.de/barakat/diplom/diplom.pdf). Diploma thesis, Lehrstuhl B für Mathematik, RWTH-Aachen University (October 1997).
-| [*Functional Spaces. A Direct Approach*](http://www.algebra.mathematik.uni-siegen.de/barakat/thesis/thesis.pdf). PhD thesis, RWTH-Aachen University (January 2002).
-| [*The Homomorphism Theorem and Effective Computations*](http://www.algebra.mathematik.uni-siegen.de/barakat/habil/habil.pdf). Habilitation thesis, RWTH-Aachen University (April 2009).
+| [*Pro-nilpotente Lie Algebren*](https://algebra.mathematik.uni-siegen.de/barakat/diplom/diplom.pdf). Diploma thesis, Lehrstuhl B für Mathematik, RWTH-Aachen University (October 1997).
+| [*Functional Spaces. A Direct Approach*](https://algebra.mathematik.uni-siegen.de/barakat/thesis/thesis.pdf). PhD thesis, RWTH-Aachen University (January 2002).
+| [*The Homomorphism Theorem and Effective Computations*](https://algebra.mathematik.uni-siegen.de/barakat/habil/habil.pdf). Habilitation thesis, RWTH-Aachen University (April 2009).

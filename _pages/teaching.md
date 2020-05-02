@@ -26,12 +26,12 @@ Semester | Course
    S 18  | [Toric Geometry]({{site.baseurl}}/teaching/S18/TG/)
    W 17  | [Lineare Algebra I]({{site.baseurl}}/teaching/W17/LA_I/)
    W 17  | [Praktikum Computeralgebra I]({{site.baseurl}}/teaching/W17/PraktikumCA/)
-   S 17  | [Seminar Darstellungstheorie von Liealgebren](http://www.algebra.mathematik.uni-siegen.de/barakat/Lehre/SS17/Seminar_Liealgebren)
-   S 17  | [Commutative Algebra](http://www.algebra.mathematik.uni-siegen.de/barakat/Lehre/SS17/CA)
-   W 16  | [Algorithmic homological algebra](http://www.algebra.mathematik.uni-siegen.de/barakat/Lehre/WS16/HomologicalAlgebra)
-   W 16  | [Algebra](http://www.algebra.mathematik.uni-siegen.de/barakat/Lehre/WS16/Algebra)
-   S 16  | [Seminar Darstellungstheorie von Pfadalgebren](http://www.algebra.mathematik.uni-siegen.de/barakat/Lehre/SS16/Seminar_Pfadalgebren)
-   S 16  | [Lineare Algebra II](http://www.algebra.mathematik.uni-siegen.de/barakat/Lehre/SS16/LAII)
+   S 17  | [Seminar Darstellungstheorie von Liealgebren](https://algebra.mathematik.uni-siegen.de/barakat/Lehre/SS17/Seminar_Liealgebren)
+   S 17  | [Commutative Algebra](https://algebra.mathematik.uni-siegen.de/barakat/Lehre/SS17/CA)
+   W 16  | [Algorithmic homological algebra](https://algebra.mathematik.uni-siegen.de/barakat/Lehre/WS16/HomologicalAlgebra)
+   W 16  | [Algebra](https://algebra.mathematik.uni-siegen.de/barakat/Lehre/WS16/Algebra)
+   S 16  | [Seminar Darstellungstheorie von Pfadalgebren](https://algebra.mathematik.uni-siegen.de/barakat/Lehre/SS16/Seminar_Pfadalgebren)
+   S 16  | [Lineare Algebra II](https://algebra.mathematik.uni-siegen.de/barakat/Lehre/SS16/LAII)
 
 ## RWTH Aachen University
 
@@ -39,26 +39,26 @@ Link to my old page on the Campus-Management-System [Campus](https://www.campus.
 
  Semester | Course
 ---------:|--------
-   W 15  | [Seminar Hyperebenenkonfigurationen](http://www.algebra.mathematik.uni-siegen.de/barakat/Lehre/WS15/Seminar_Hyperebenenkonfigurationen)
-   W 15  | [Ebene Algebraische Kurven](http://www.algebra.mathematik.uni-siegen.de/barakat/Lehre/WS15/Ebene_Algebraische_Kurven)
-   W 15  | [Diskrete Strukturen](http://www.algebra.mathematik.uni-siegen.de/barakat/Lehre/WS15/Diskrete_Strukturen)
-   S 15  | [Toric Geometry](http://www.algebra.mathematik.uni-siegen.de/barakat/Lehre/SS15/Torische_Geometrie)
+   W 15  | [Seminar Hyperebenenkonfigurationen](https://algebra.mathematik.uni-siegen.de/barakat/Lehre/WS15/Seminar_Hyperebenenkonfigurationen)
+   W 15  | [Ebene Algebraische Kurven](https://algebra.mathematik.uni-siegen.de/barakat/Lehre/WS15/Ebene_Algebraische_Kurven)
+   W 15  | [Diskrete Strukturen](https://algebra.mathematik.uni-siegen.de/barakat/Lehre/WS15/Diskrete_Strukturen)
+   S 15  | [Toric Geometry](https://algebra.mathematik.uni-siegen.de/barakat/Lehre/SS15/Torische_Geometrie)
 
 ## KU Eichstätt-Ingolstadt
 
  Semester | Course
 ---------:|--------
-   S 14  | [Grundlagen der Geometrie](http://www.algebra.mathematik.uni-siegen.de/barakat/Lehre/SS14/Grundlagen_der_Geometrie)
+   S 14  | [Grundlagen der Geometrie](https://algebra.mathematik.uni-siegen.de/barakat/Lehre/SS14/Grundlagen_der_Geometrie)
 
 ## University of Kaiserslautern
 
  Semester | Course
 ---------:|--------
-   W 13  | [Introduction to algorithmic homological algebra](http://www.algebra.mathematik.uni-siegen.de/barakat/Lehre/WS13/HomologicalAlgebra)
-   W 13  | [Funktionentheorie](http://www.algebra.mathematik.uni-siegen.de/barakat/Lehre/WS13/Funktionentheorie)
-   S 12  | [Topologie](http://www.algebra.mathematik.uni-siegen.de/barakat/Lehre/SS12/Topologie)
-   W 11  | [Funktionentheorie](http://www.algebra.mathematik.uni-siegen.de/barakat/Lehre/WS11/Funktionentheorie)
-   S 11  | [Seminar zur Kryptographie](http://www.algebra.mathematik.uni-siegen.de/barakat/Lehre/SS11/KryptoSeminar)
-   W 10  | [Cryptography](http://www.algebra.mathematik.uni-siegen.de/barakat/Lehre/WS10/Cryptography)
-   S 10  | [Freiwillige Zusatzveranstaltung zur GdM Vorlesung](http://www.algebra.mathematik.uni-siegen.de/barakat/Lehre/SS10/ZV/index.html)
-   S 10  | [Topologie](http://www.algebra.mathematik.uni-siegen.de/barakat/Lehre/SS10/Topologie)
+   W 13  | [Introduction to algorithmic homological algebra](https://algebra.mathematik.uni-siegen.de/barakat/Lehre/WS13/HomologicalAlgebra)
+   W 13  | [Funktionentheorie](https://algebra.mathematik.uni-siegen.de/barakat/Lehre/WS13/Funktionentheorie)
+   S 12  | [Topologie](https://algebra.mathematik.uni-siegen.de/barakat/Lehre/SS12/Topologie)
+   W 11  | [Funktionentheorie](https://algebra.mathematik.uni-siegen.de/barakat/Lehre/WS11/Funktionentheorie)
+   S 11  | [Seminar zur Kryptographie](https://algebra.mathematik.uni-siegen.de/barakat/Lehre/SS11/KryptoSeminar)
+   W 10  | [Cryptography](https://algebra.mathematik.uni-siegen.de/barakat/Lehre/WS10/Cryptography)
+   S 10  | [Freiwillige Zusatzveranstaltung zur GdM Vorlesung](https://algebra.mathematik.uni-siegen.de/barakat/Lehre/SS10/ZV/index.html)
+   S 10  | [Topologie](https://algebra.mathematik.uni-siegen.de/barakat/Lehre/SS10/Topologie)
