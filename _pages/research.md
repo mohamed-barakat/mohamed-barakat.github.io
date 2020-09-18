@@ -14,6 +14,7 @@ permalink: /research/
 
 ## Preprints
 
+5 | H. Chau Nguyen, Sébastien Designolle, Mohamed Barakat, Otfried Gühne [*Symmetries between measurements in quantum mechanics*](http://arxiv.org/abs/2003.12553).
 4 | Mohamed Barakat and Markus Lange-Hegermann [*An algorithmic approach to Chevalley's Theorem on images of rational morphisms between affine varieties*](http://arxiv.org/abs/1911.10411).
 3 | Mohamed Barakat, Reimer Behrends, Christopher Jefferson, Lukas Kühne and Martin Leuner, [*On the generation of rank 3 simple matroids with an application to Terao's freeness conjecture*](http://arxiv.org/abs/1907.01073).
 2 | Mohamed Barakat, Markus Lange-Hegermann and Sebastian Posur, [*Elimination via saturation*](http://arxiv.org/abs/1707.00925).
