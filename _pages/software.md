@@ -9,8 +9,8 @@ permalink: /software/
 
 <!-- [*The conley package*](https://algebra.mathematik.uni-siegen.de/conley)      | 2006-2008 -->
 
-* [My github repositories](https://github.com/mohamed-barakat?tab=repositories)
 * [The GitHub organization homalg-project](https://homalg-project.github.io/)
+* [My GitHub page](https://github.com/mohamed-barakat?tab=repositories)
 
 |[![homalg-project](https://algebra.mathematik.uni-siegen.de/img/lines_of_code.png)]()|
 |:---:|
