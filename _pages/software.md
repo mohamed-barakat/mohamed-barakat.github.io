@@ -4,14 +4,14 @@ title: "Software"
 permalink: /software/
 ---
 
-## Actively developed
+### Actively developed
 
 All software I am (co)developing can be found here:
 
 * [The GitHub organization homalg-project](https://homalg-project.github.io/)
 * [My GitHub page](https://github.com/mohamed-barakat?tab=repositories)
 
-## Unmaintained software
+### Unmaintained software
 
 * [The jets package](https://algebra.mathematik.uni-siegen.de/barakat/jets) (2000-2008)
 
