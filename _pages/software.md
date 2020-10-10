@@ -13,6 +13,7 @@ All software I am (co)developing can be found here:
 
 ### Unmaintained software
 
-* [The jets package](https://algebra.mathematik.uni-siegen.de/barakat/jets) (2000-2008)
+[The jets package](https://algebra.mathematik.uni-siegen.de/barakat/jets) | 2000-2008
+[homalg in Maple](https://algebra.mathematik.uni-siegen.de/barakat/homalg_in_maple) | 2000-2008
 
-<!-- * [The conley package](https://algebra.mathematik.uni-siegen.de/conley) (2006-2008) -->
+<!-- [The conley package](https://algebra.mathematik.uni-siegen.de/conley) | 2006-2008 -->
