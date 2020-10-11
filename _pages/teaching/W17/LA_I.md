@@ -23,4 +23,4 @@ Mit dem Bestehen der Klausur am Ende des Semesters erhalten Sie den Leistungsnac
 
 ### Skript
 
-Meine Vorlesungsnotizen werden den Zuhörer der Vorlesung mit einer Woche Verzögerung zur Verfügung gestellt.
+Meine Vorlesungsnotizen werden den Zuhörern der Vorlesung mit einer Woche Verzögerung zur Verfügung gestellt.
