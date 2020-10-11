@@ -12,7 +12,11 @@ permalink: /teaching/W20/SeminarToric/
 
 * Termine und Räume: [Siehe Unisono-Eintrag](https://unisono.uni-siegen.de/). (Beginn: 11. November)
 
-### Topics
+### Voraussetzung
+
+Vorlesung "Topics in Algebraic Geometry"
+
+### Themen
 
 * The quotient construction of toric varieties
 * The Cox ring
