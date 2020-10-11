@@ -20,9 +20,7 @@ Aktuelle Informationen und die Übungsaufgaben finden Sie auf der [Moodle-Seite 
 * Klausurtermin: (5.2.2018, 09:00-11:00, ENC-D 114).
 -->
 
-### Inhalt
-
-Inhalte
+### Kurzbeschreibung
 
 In dieser Vorlesung werden wir die Kategorie endlichdimensionaler
 Vektorräume kennenlernen. Diese Kategorie weist eine äußerst nützliche
