@@ -10,7 +10,7 @@ permalink: /teaching/S20/SeminarLie/
 
 ### Termine
 
-* Termine: [Siehe Unisono-Eintrag](https://unisono.uni-siegen.de/qisserver/pages/cm/exa/examEventOverviewOwn/showOverview.xhtml?_flowId=examEventOverviewOwn-flow&_flowExecutionKey=e1s4). (Beginn: 29.04.2020)
+* Termine: [Siehe Unisono-Eintrag](https://unisono.uni-siegen.de/). (Beginn: 29.04.2020)
 
 ### Liste der Vorträge
 

@@ -12,6 +12,9 @@ Link to my page on the current Campus-Management-System [unisono](https://unison
 
 Semester | Course
 --------:|--------
+   W 20  | [Seminar Topics in Algebraic Geometry]({{site.baseurl}}/teaching/W20/SeminarToric/)
+   W 20  | [Seminar Pfadalgebren]({{site.baseurl}}/teaching/W20/SeminarPfad/)
+   W 20  | [Praktikum Computeralgebra I & II]({{site.baseurl}}/teaching/W20/PraktikumCA/)
    S 20  | [Topics in Algebraic Geometry]({{site.baseurl}}/teaching/S20/AG/)
    S 20  | [Seminar Lie-Algebren]({{site.baseurl}}/teaching/S20/SeminarLie/)
    S 20  | [Praktikum Computeralgebra I & II]({{site.baseurl}}/teaching/S20/PraktikumCA/)
