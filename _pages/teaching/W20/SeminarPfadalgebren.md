@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Seminar Pfad-Algebren"
+title: "Seminar Pfadalgebren"
 permalink: /teaching/W20/SeminarPfad/
 ---
 
