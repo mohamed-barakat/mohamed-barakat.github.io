@@ -9,7 +9,7 @@ permalink: /software/
 All software I am (co)developing can be found here:
 
 * [The GitHub organization homalg-project](https://homalg-project.github.io/)
-* [My GitHub page](https://github.com/mohamed-barakat?tab=repositories)
+* [My GitHub page](https://github.com/mohamed-barakat/)
 
 ### Unmaintained software
 
