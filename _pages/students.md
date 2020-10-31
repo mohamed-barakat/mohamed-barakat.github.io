@@ -8,7 +8,7 @@ Current PhD students:
 * [Fabian Zickgraf](https://github.com/zickgraf)
 
 Former PhD students ([Mathematics Genealogy Project](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=61353)):
-* [Sergio Siccha](https://orcid.org/0000-0002-2839-5265/) (second advisor)
-* [Martin Bies](https://martinbies.github.io/) (second advisor)
-* [Sebastian Gutsche](https://sebasguts.github.io/)
 * [Sebastian Posur](https://sebastianpos.github.io/)
+* [Sebastian Gutsche](https://sebasguts.github.io/)
+* [Martin Bies](https://martinbies.github.io/) (second advisor)
+* [Sergio Siccha](https://orcid.org/0000-0002-2839-5265/) (second advisor)
