@@ -39,6 +39,11 @@ Polynomringe über Körper. Insbesondere werden wir Algorithmen
 entwickeln, um lineare Gleichungssysteme über diesen Ringen lösen zu
 können. Dies sind die Aufgaben mit den geraden Nummern (2, 4, 6, ...)
 
+### Installation
+
+Für die Installation der benötigten Software auf dem eigenen Rechner
+verweise ich auf folgende [Installationsseite](https://homalg-project.github.io/docs/installation).
+
 ### Blätter
 
 1. [Blatt01](https://algebra.mathematik.uni-siegen.de/barakat/Lehre/WS20/Praktikum/Uebungen/blatt01.pdf)
