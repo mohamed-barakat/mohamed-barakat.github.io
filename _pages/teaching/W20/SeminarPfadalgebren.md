@@ -10,7 +10,7 @@ permalink: /teaching/W20/SeminarPfad/
 
 ### Termine
 
-* Termine und Räume: [Siehe Unisono-Eintrag](https://unisono.uni-siegen.de/). (Beginn: 05. November)
+* Termine und Räume: [Siehe Unisono-Eintrag](https://unisono.uni-siegen.de/). (Beginn: 11. November)
 
 ### Liste der Vorträge
 
