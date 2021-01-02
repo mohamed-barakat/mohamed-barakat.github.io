@@ -14,8 +14,7 @@ permalink: /research/
 
 ## Preprints
 
-5 | H. Chau Nguyen, Sébastien Designolle, Mohamed Barakat, Otfried Gühne [*Symmetries between measurements in quantum mechanics*](http://arxiv.org/abs/2003.12553).
-4 | Mohamed Barakat and Markus Lange-Hegermann [*An algorithmic approach to Chevalley's Theorem on images of rational morphisms between affine varieties*](http://arxiv.org/abs/1911.10411).
+4 | H. Chau Nguyen, Sébastien Designolle, Mohamed Barakat, Otfried Gühne [*Symmetries between measurements in quantum mechanics*](http://arxiv.org/abs/2003.12553).
 3 | Mohamed Barakat, Reimer Behrends, Christopher Jefferson, Lukas Kühne and Martin Leuner, [*On the generation of rank 3 simple matroids with an application to Terao's freeness conjecture*](http://arxiv.org/abs/1907.01073).
 2 | Mohamed Barakat, Markus Lange-Hegermann and Sebastian Posur, [*Elimination via saturation*](http://arxiv.org/abs/1707.00925).
 1 | Mohamed Barakat and Markus Lange-Hegermann, [*Gabriel morphisms and the computability of Serre quotients with applications to coherent sheaves*](http://arxiv.org/abs/1409.2028).
@@ -23,6 +22,7 @@ permalink: /research/
 
 ## Refereed publications
 
+20 | Mohamed Barakat and Markus Lange-Hegermann [*An algorithmic approach to Chevalley's Theorem on images of rational morphisms between affine varieties*](http://arxiv.org/abs/1911.10411). Accepted for publication in [Math. Comp.](https://www.ams.org/publications/journals/journalsframework/mcom).
 19 | Mohamed Barakat and Markus Lange-Hegermann, [*A constructive approach to the module of twisted global sections on relative projective spaces*](http://arxiv.org/abs/1409.6100). Algorithmic and Experimental Methods in Algebra, Geometry, and Number Theory, Springer, (2017) 23-49.
 18 | Takuro Abe, Mohamed Barakat, Michael Cuntz, Torsten Hoge, and Hiroaki Terao, [*The freeness of ideal subarrangements of Weyl arrangements*](http://arxiv.org/abs/1304.8033). Journal of the Eur. Math. Soc. <b>18</b>,6 (2016), 1339-1348.
 17 | Mohamed Barakat, [*On subdirect factors of a projective module and applications to system theory*](http://arxiv.org/abs/1305.0058). Multidimensional Systems and Signal Processing <b>26</b>,2 (2015), 339-348.
