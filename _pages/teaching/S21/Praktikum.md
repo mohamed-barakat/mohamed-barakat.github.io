@@ -1,16 +1,16 @@
 ---
 layout: single
 title: "Praktikum Computeralgebra"
-permalink: /teaching/W20/PraktikumCA/
+permalink: /teaching/S21/PraktikumCA/
 ---
 
-## Wintersemester 2020
+## Sommersemester 2021
 
 ### Aktuelles
 
 ### Termine
 
-* Parktikumstermine: [Siehe Unisono-Eintrag](https://unisono.uni-siegen.de/). Einer der beiden Termine ist als Ausweichtermin gedacht (Beginn: 09.11.2020)
+* Parktikumstermine: [Siehe Unisono-Eintrag](https://unisono.uni-siegen.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=37343&periodId=191&navigationPosition=studiesOffered,searchCourses). Einer der beiden Termine ist als Ausweichtermin gedacht (Beginn: 22. April)
 
 ### Zielgruppe und benötigte Vorkenntnisse
 
@@ -46,15 +46,15 @@ verweise ich auf folgende [Installationsseite](https://homalg-project.github.io/
 
 ### Blätter
 
-1. [Blatt01](https://algebra.mathematik.uni-siegen.de/barakat/Lehre/WS20/Praktikum/Uebungen/blatt01.pdf)
-2. [Blatt02](https://algebra.mathematik.uni-siegen.de/barakat/Lehre/WS20/Praktikum/Uebungen/blatt02.pdf)
-3. [Blatt03](https://algebra.mathematik.uni-siegen.de/barakat/Lehre/WS20/Praktikum/Uebungen/blatt03.pdf)
-4. [Blatt04](https://algebra.mathematik.uni-siegen.de/barakat/Lehre/WS20/Praktikum/Uebungen/blatt04.pdf)
-5. [Blatt05](https://algebra.mathematik.uni-siegen.de/barakat/Lehre/WS20/Praktikum/Uebungen/blatt05.pdf)
+1. [Blatt01](https://algebra.mathematik.uni-siegen.de/barakat/Lehre/SS21/Praktikum/Uebungen/blatt01.pdf)
+2. [Blatt02](https://algebra.mathematik.uni-siegen.de/barakat/Lehre/SS21/Praktikum/Uebungen/blatt02.pdf)
 
 <!--
-6. [Blatt06](https://algebra.mathematik.uni-siegen.de/barakat/Lehre/WS20/Praktikum/Uebungen/blatt06.pdf)
-7. [Blatt07](https://algebra.mathematik.uni-siegen.de/barakat/Lehre/WS20/Praktikum/Uebungen/blatt07.pdf)
-8. [Blatt08](https://algebra.mathematik.uni-siegen.de/barakat/Lehre/WS20/Praktikum/Uebungen/blatt08.pdf)
+3. [Blatt03](https://algebra.mathematik.uni-siegen.de/barakat/Lehre/SS21/Praktikum/Uebungen/blatt03.pdf)
+4. [Blatt04](https://algebra.mathematik.uni-siegen.de/barakat/Lehre/SS21/Praktikum/Uebungen/blatt04.pdf)
+5. [Blatt05](https://algebra.mathematik.uni-siegen.de/barakat/Lehre/SS21/Praktikum/Uebungen/blatt05.pdf)
+6. [Blatt06](https://algebra.mathematik.uni-siegen.de/barakat/Lehre/SS21/Praktikum/Uebungen/blatt06.pdf)
+7. [Blatt07](https://algebra.mathematik.uni-siegen.de/barakat/Lehre/SS21/Praktikum/Uebungen/blatt07.pdf)
+8. [Blatt08](https://algebra.mathematik.uni-siegen.de/barakat/Lehre/SS21/Praktikum/Uebungen/blatt08.pdf)
 
 -->

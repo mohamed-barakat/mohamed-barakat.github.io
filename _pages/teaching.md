@@ -12,8 +12,11 @@ Link to my page on the current Campus-Management-System [unisono](https://unison
 
 Semester | Course
 --------:|--------
+   S 21  | [Praktikum Computeralgebra I & II]({{site.baseurl}}/teaching/S21/PraktikumCA/)
+   S 21  | [Seminar zur Linearen Algebra]({{site.baseurl}}/teaching/S21/SeminarLA/)
+   S 21  | [Seminar Pfadalgebren]({{site.baseurl}}/teaching/S21/SeminarPfad/)
+   S 21  | [Lineare Algebra II]({{site.baseurl}}/teaching/S21/LA_II/)
    W 20  | [Seminar Topics in Algebraic Geometry]({{site.baseurl}}/teaching/W20/SeminarToric/)
-   W 20  | [Seminar Pfadalgebren]({{site.baseurl}}/teaching/W20/SeminarPfad/)
    W 20  | [Praktikum Computeralgebra I & II]({{site.baseurl}}/teaching/W20/PraktikumCA/)
    W 20  | [Lineare Algebra I]({{site.baseurl}}/teaching/W20/LA_I/)
    S 20  | [Topics in Algebraic Geometry]({{site.baseurl}}/teaching/S20/AG/)

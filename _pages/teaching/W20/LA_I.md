@@ -4,7 +4,7 @@ title: "Lineare Algebra I"
 permalink: /teaching/W20/LA_I/
 ---
 
-## Wintersemester 2017/18
+## Wintersemester 2020/21
 
 ### Aktuelles
 
