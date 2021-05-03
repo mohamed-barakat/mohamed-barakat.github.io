@@ -4,4 +4,4 @@ title: "Database"
 permalink: /database/
 ---
 
-[Follow me](/database/matroid/)
+[Follow me](/barakat/database/matroid/)
