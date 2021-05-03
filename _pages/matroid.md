@@ -8,5 +8,5 @@ permalink: /database/matroid/
 <head>
 <title>Mohamed Barakat</title>
 <meta http-equiv="REFRESH"
-      content="0;url=http://matroid.mathematik.uni-siegen.de"></HEAD>
+      content="0;url=https://matroid.mathematik.uni-siegen.de/"></HEAD>
 </html>
