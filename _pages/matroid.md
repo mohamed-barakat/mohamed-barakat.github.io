@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Database"
-permalink: /barakat/database/matroid/
+permalink: /database/matroid/
 ---
 
 <html>
