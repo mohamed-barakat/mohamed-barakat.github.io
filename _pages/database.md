@@ -4,4 +4,4 @@ title: "Database"
 permalink: /database/
 ---
 
-[Follow me](/barakat/database/matroid/)
+[Follow me]({{site.baseurl}}/database/matroid/)
