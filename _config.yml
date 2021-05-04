@@ -192,6 +192,11 @@ kramdown:
   enable_coderay: false
 
 
+# Collections
+collections:
+  blog:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -214,6 +219,17 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _blog
+  - scope:
+      path: ""
+      type: blog
+    values:
+      layout: single
+      author_profile: true
+      read_time: # true
+      comments: # true
+      share: true
+      related: true
 
 
 # Sass/SCSS
