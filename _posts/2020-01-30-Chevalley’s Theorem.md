@@ -4,6 +4,10 @@ comments: false
 
 ### Chevalley’s Theorem on constructible images made constructive
 
+###### Talk at the workshop <br/> <Q>Computational and algorithmic methods</Q> <br/> The Isaac Newton Institute <br/> Cambridge, United Kingdom <br/> 27 January 2020 to 31 January 2020
+
+###### Abstract:
+
 Chevalley proved that the image of an algebraic morphism between
 algebraic varieties is a constructible set. Examples are orbits of
 algebraic group actions. A constructible set in a topological space is
