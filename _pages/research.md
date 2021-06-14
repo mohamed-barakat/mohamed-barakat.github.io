@@ -21,7 +21,7 @@ permalink: /research/
 
 ## Refereed publications
 
-21 | Mohamed Barakat, Reimer Behrends, Christopher Jefferson, Lukas Kühne and Martin Leuner, [*On the generation of rank 3 simple matroids with an application to Terao's freeness conjecture*](http://arxiv.org/abs/1907.01073). Accepted for publication in [SIAM J. Discrete Math](https://www.siam.org/publications/journals/siam-journal-on-discrete-mathematics-sidma).
+21 | Mohamed Barakat, Reimer Behrends, Christopher Jefferson, Lukas Kühne and Martin Leuner, [*On the generation of rank 3 simple matroids with an application to Terao's freeness conjecture*](http://arxiv.org/abs/1907.01073). SIAM J. Discrete Math., 35(2), (2021), 1201–1223.
 20 | Mohamed Barakat and Markus Lange-Hegermann [*An algorithmic approach to Chevalley's Theorem on images of rational morphisms between affine varieties*](http://arxiv.org/abs/1911.10411). Accepted for publication in [Math. Comp.](https://doi.org/10.1090/mcom/3632).
 19 | Mohamed Barakat and Markus Lange-Hegermann, [*A constructive approach to the module of twisted global sections on relative projective spaces*](http://arxiv.org/abs/1409.6100). Algorithmic and Experimental Methods in Algebra, Geometry, and Number Theory, Springer, (2017) 23-49.
 18 | Takuro Abe, Mohamed Barakat, Michael Cuntz, Torsten Hoge, and Hiroaki Terao, [*The freeness of ideal subarrangements of Weyl arrangements*](http://arxiv.org/abs/1304.8033). Journal of the Eur. Math. Soc. <b>18</b>,6 (2016), 1339-1348.
