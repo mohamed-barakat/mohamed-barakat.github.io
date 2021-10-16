@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Praktikum Computeralgebra"
-permalink: /teaching/S21/PraktikumCA/
+permalink: /teaching/W21/PraktikumCA/
 ---
 
 ## Wintersemester 2021
