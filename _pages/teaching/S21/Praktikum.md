@@ -44,17 +44,14 @@ können. Dies sind die Aufgaben mit den geraden Nummern (2, 4, 6, ...)
 Für die Installation der benötigten Software auf dem eigenen Rechner
 verweise ich auf folgende [Installationsseite](https://homalg-project.github.io/docs/installation).
 
+<!--
 ### Blätter
-
 1. [Blatt01](https://algebra.mathematik.uni-siegen.de/barakat/Lehre/SS21/Praktikum/Uebungen/blatt01.pdf)
 2. [Blatt02](https://algebra.mathematik.uni-siegen.de/barakat/Lehre/SS21/Praktikum/Uebungen/blatt02.pdf)
 3. [Blatt03](https://algebra.mathematik.uni-siegen.de/barakat/Lehre/SS21/Praktikum/Uebungen/blatt03.pdf)
 4. [Blatt04](https://algebra.mathematik.uni-siegen.de/barakat/Lehre/SS21/Praktikum/Uebungen/blatt04.pdf)
 5. [Blatt05](https://algebra.mathematik.uni-siegen.de/barakat/Lehre/SS21/Praktikum/Uebungen/blatt05.pdf)
-
-<!--
 6. [Blatt06](https://algebra.mathematik.uni-siegen.de/barakat/Lehre/SS21/Praktikum/Uebungen/blatt06.pdf)
 7. [Blatt07](https://algebra.mathematik.uni-siegen.de/barakat/Lehre/SS21/Praktikum/Uebungen/blatt07.pdf)
 8. [Blatt08](https://algebra.mathematik.uni-siegen.de/barakat/Lehre/SS21/Praktikum/Uebungen/blatt08.pdf)
-
 -->
