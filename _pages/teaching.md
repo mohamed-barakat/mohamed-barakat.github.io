@@ -15,6 +15,7 @@ Semester | Course
    W 21  | [Praktikum Computeralgebra I & II]({{site.baseurl}}/teaching/W21/PraktikumCA/)
    W 21  | [Algorithmische Algebra]({{site.baseurl}}/teaching/W21/AA/)
    W 21  | [Seminar zur Linearen Algebra]({{site.baseurl}}/teaching/W21/SeminarLA/)
+   W 21  | [Seminar zu ebenen algebraischen Kurven]({{site.baseurl}}/teaching/W21/SeminarAC/)
    W 21  | [Diskrete Mathematik für Informatikstudierende]({{site.baseurl}}/teaching/W21/DMI/)
    S 21  | [Praktikum Computeralgebra I & II]({{site.baseurl}}/teaching/S21/PraktikumCA/)
    S 21  | [Seminar zur Linearen Algebra]({{site.baseurl}}/teaching/S21/SeminarLA/)
