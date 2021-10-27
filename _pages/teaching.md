@@ -13,6 +13,7 @@ Link to my page on the current Campus-Management-System [unisono](https://unison
 Semester | Course
 --------:|--------
    W 21  | [Praktikum Computeralgebra I & II]({{site.baseurl}}/teaching/W21/PraktikumCA/)
+   W 21  | [Algorithmische Algebra]({{site.baseurl}}/teaching/W21/AA/)
    S 21  | [Praktikum Computeralgebra I & II]({{site.baseurl}}/teaching/S21/PraktikumCA/)
    S 21  | [Seminar zur Linearen Algebra]({{site.baseurl}}/teaching/S21/SeminarLA/)
    S 21  | [Seminar Pfadalgebren]({{site.baseurl}}/teaching/S21/SeminarPfad/)
