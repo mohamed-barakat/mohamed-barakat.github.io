@@ -30,7 +30,7 @@ permalink: /research/
 14 | Mohamed Barakat and Markus Lange-Hegermann, [*On monads of exact reflective localizations of Abelian categories*](http://arxiv.org/abs/1202.3337). Homology, Homotopy and Applications <b>15</b>,2 (2013), 145-151.
 13 | Mohamed Barakat and Michael Cuntz, [*Coxeter and crystallographic arrangements are inductively free*](http://arxiv.org/abs/1011.4228). Adv. Math. <b>229</b>, no. 1 (2012), 691-709.
 12 | Mohamed Barakat and Markus Lange-Hegermann, [*An Axiomatic Setup for Algorithmic Homological Algebra and an Alternative Approach to Localization*](http://arxiv.org/abs/1003.1943). J. Algebra Appl. <b>10</b>, no. 2 (2011), 269-293.
-11 | Mohamed Barakat and Simon G&ouml;rtzen, [*Simplicial cohomology of smooth orbifolds in GAP*](https://algebra.mathematik.uni-siegen.de/barakat/ICMS10/SCO.pdf). Proceedings of the ICMS (Kobe, Japan), Lecture Notes in Computer Science <b>6327</b> (2010), 46-49.
+11 | Mohamed Barakat and Simon Görtzen, [*Simplicial cohomology of smooth orbifolds in GAP*](https://algebra.mathematik.uni-siegen.de/barakat/ICMS10/SCO.pdf). Proceedings of the ICMS (Kobe, Japan), Lecture Notes in Computer Science <b>6327</b> (2010), 46-49.
 10 | Mohamed Barakat, [*Conley Index Theory*](http://www.conferences.hu/mtns2010/proceedings/Papers/286_472.pdf). Proceedings of the MTNS (Budapest, Hungary) (2010), 1645-1651.
 9 | Mohamed Barakat, [*Purity Filtration and the Fine Structure of Autonomy*](http://www.conferences.hu/mtns2010/proceedings/Papers/288_451.pdf). Proceedings of the MTNS (Budapest, Hungary) (2010), 1657-1661.
 8 | Mohamed Barakat and Stanislaus Maier-Paape, [*Computation of connection matrices using the software package conley*](https://algebra.mathematik.uni-siegen.de/barakat/CH/ch.pdf). Internat. J. Bifur. Chaos Appl. Sci. Engrg. <b>19</b>, no. 9 (2009), 3033-3056.
@@ -45,12 +45,13 @@ permalink: /research/
 
 ## Non-refereed publications
 
+12 | Mohamed Barakat and Lukas Kühne, [*Investigating Terao’s freeness conjecturewith computer algebra*](https://fachgruppe-computeralgebra.de/data/CA-Rundbrief/car68.pdf#page=8). Computeralgebra-Rundbrief (2021), 8-11.
 10 | Mohamed Barakat, Markus Lange-Hegermann and Sebastian Posur, [*Elimination via saturation*](http://arxiv.org/abs/1707.00925).
 9 | Mohamed Barakat and Markus Lange-Hegermann, [*Gabriel morphisms and the computability of Serre quotients with applications to coherent sheaves*](http://arxiv.org/abs/1409.2028).
-8 | Mohamed Barakat, Max Horn, Frank L&uuml;beck, Oleksandr Motsak, Max Neunh&ouml;ffer, and Hans Sch&ouml;nemann, [*The GAP package SingularInterface*](http://www.fachgruppe-computeralgebra.de/data/CA-Rundbrief/car55.pdf). Computeralgebra-Rundbrief (2014), 29-33.
+8 | Mohamed Barakat, Max Horn, Frank Lübeck, Oleksandr Motsak, Max Neunhöffer, and Hans Schönemann, [*The GAP package SingularInterface*](http://www.fachgruppe-computeralgebra.de/data/CA-Rundbrief/car55.pdf#page=29). Computeralgebra-Rundbrief (2014), 29-33.
 7 | Mohamed Barakat, [*Computations of unitary groups in characteristic 2*](https://algebra.mathematik.uni-siegen.de/barakat/forJPSerre/UnitaryGroup.pdf). (for J.-P. Serre) (2013).
 6 | Mohamed Barakat, [*Computing Ext in Serre quotient categories*](http://www.mfo.de/document/1320b/OWR_2013_25.pdf). Mini-Workshop: Algebraic and Analytic Techniques for Polynomial Vector Fields, MFO report no. 57 (2013), 19-21.
-5 | Mohamed Barakat and Markus Lange-Hegermann, [*The homalg project*](http://www.fachgruppe-computeralgebra.de/data/CA-Rundbrief/car51.pdf). Computeralgebra Rundbrief (2012), 6-9.
+5 | Mohamed Barakat and Markus Lange-Hegermann, [*The homalg project*](http://www.fachgruppe-computeralgebra.de/data/CA-Rundbrief/car51.pdf#page=6). Computeralgebra Rundbrief (2012), 6-9.
 4 | Mohamed Barakat, [*Jet groupoids and the invariance of geometric structures*](http://www.mfo.de/document/1050c/OWR_2010_57.pdf). Mini-Workshop: Algebraic and Analytic Techniques for Polynomial Vector Fields, MFO report no. 57 (2010), 19-21.
 3 | Mohamed Barakat, [*Spectral Sequences and Effective Computations*](http://www.mfo.de/document/0946b/OWR_2009_50.pdf). Mini-Workshop: Formal Methods in Commutative Algebra: A View Toward Constructive Homological Algebra, MFO report no. 50 (2009), 7-12.
 2 | Mohamed Barakat, [*Spectral filtrations via generalized morphisms*](http://arxiv.org/abs/0904.0240).
