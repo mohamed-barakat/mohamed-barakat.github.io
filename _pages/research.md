@@ -14,9 +14,8 @@ permalink: /research/
 
 ## Preprints
 
-3 | H. Chau Nguyen, Sébastien Designolle, Mohamed Barakat, Otfried Gühne [*Symmetries between measurements in quantum mechanics*](http://arxiv.org/abs/2003.12553).
-2 | Mohamed Barakat, Markus Lange-Hegermann and Sebastian Posur, [*Elimination via saturation*](http://arxiv.org/abs/1707.00925).
-1 | Mohamed Barakat and Markus Lange-Hegermann, [*Gabriel morphisms and the computability of Serre quotients with applications to coherent sheaves*](http://arxiv.org/abs/1409.2028).
+2 | Mohamed Barakat and Lukas Kühne, [*Computing the nonfree locus of the moduli space of arrangements and Terao's freeness conjecture*](http://arxiv.org/abs/2112.13065).
+1 | H. Chau Nguyen, Sébastien Designolle, Mohamed Barakat and Otfried Gühne, [*Symmetries between measurements in quantum mechanics*](http://arxiv.org/abs/2003.12553).
 
 
 ## Refereed publications
@@ -46,6 +45,8 @@ permalink: /research/
 
 ## Non-refereed publications
 
+10 | Mohamed Barakat, Markus Lange-Hegermann and Sebastian Posur, [*Elimination via saturation*](http://arxiv.org/abs/1707.00925).
+9 | Mohamed Barakat and Markus Lange-Hegermann, [*Gabriel morphisms and the computability of Serre quotients with applications to coherent sheaves*](http://arxiv.org/abs/1409.2028).
 8 | Mohamed Barakat, Max Horn, Frank L&uuml;beck, Oleksandr Motsak, Max Neunh&ouml;ffer, and Hans Sch&ouml;nemann, [*The GAP package SingularInterface*](http://www.fachgruppe-computeralgebra.de/data/CA-Rundbrief/car55.pdf). Computeralgebra-Rundbrief (2014), 29-33.
 7 | Mohamed Barakat, [*Computations of unitary groups in characteristic 2*](https://algebra.mathematik.uni-siegen.de/barakat/forJPSerre/UnitaryGroup.pdf). (for J.-P. Serre) (2013).
 6 | Mohamed Barakat, [*Computing Ext in Serre quotient categories*](http://www.mfo.de/document/1320b/OWR_2013_25.pdf). Mini-Workshop: Algebraic and Analytic Techniques for Polynomial Vector Fields, MFO report no. 57 (2013), 19-21.
