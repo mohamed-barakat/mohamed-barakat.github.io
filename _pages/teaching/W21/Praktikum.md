@@ -16,8 +16,6 @@ permalink: /teaching/W21/PraktikumCA/
 
 Dieses Praktikum richtet sich an Fachbachelorstudierende und Lehramtsstudierende aller Semester.
 
-Zum Bestehen des Praktikums ist entweder Teil I oder II des Praktikums erforderlich.
-
 Für das Praktikums wird folgendes vorausgesetzt:
 
 * mathematisch: Für Teil I ein Grundverständnis der Mengenlehre und für Teil II der Gauss-Algorithmus und der erweiterte Euklidische Algorithmus

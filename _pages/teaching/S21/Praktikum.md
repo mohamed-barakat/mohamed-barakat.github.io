@@ -16,8 +16,6 @@ permalink: /teaching/S21/PraktikumCA/
 
 Dieses Praktikum richtet sich an Fachbachelorstudierende und Lehramtsstudierende aller Semester.
 
-Zum Bestehen des Praktikums ist entweder Teil I oder II des Praktikums erforderlich.
-
 Für Teil I des Praktikums werden nur ein Grundverständnis der Mengenlehre, Umgang mit einem Texteditor, und Grundzüge der (imperativen) Programmierung vorausgesetzt:
 * Zuweisung von Variablen
 * if-Abfragen
