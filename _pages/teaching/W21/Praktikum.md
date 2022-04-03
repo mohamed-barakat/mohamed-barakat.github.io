@@ -16,7 +16,7 @@ permalink: /teaching/W21/PraktikumCA/
 
 Dieses Praktikum richtet sich an Fachbachelorstudierende und Lehramtsstudierende aller Semester.
 
-Für das Praktikums wird folgendes vorausgesetzt:
+Für das Praktikum wird folgendes vorausgesetzt:
 
 * mathematisch: Für Teil I ein Grundverständnis der Mengenlehre und für Teil II der Gauss-Algorithmus und der erweiterte Euklidische Algorithmus
 * technisch: Umgang mit einem [Texteditor](https://en.wikipedia.org/wiki/Text_editor) und Grundzüge der [(imperativen) Programmierung](https://de.wikipedia.org/wiki/Imperative_Programmierung):
@@ -46,6 +46,7 @@ verweise ich auf folgende [Installationsseite](https://homalg-project.github.io/
 ### Blätter
 
 
+<!--
 1. [Blatt01](https://algebra.mathematik.uni-siegen.de/barakat/Lehre/WS21/Praktikum/Uebungen/blatt01.pdf)
 2. [Blatt02](https://algebra.mathematik.uni-siegen.de/barakat/Lehre/WS21/Praktikum/Uebungen/blatt02.pdf)
 3. [Blatt03](https://algebra.mathematik.uni-siegen.de/barakat/Lehre/WS21/Praktikum/Uebungen/blatt03.pdf)
@@ -53,7 +54,5 @@ verweise ich auf folgende [Installationsseite](https://homalg-project.github.io/
 5. [Blatt05](https://algebra.mathematik.uni-siegen.de/barakat/Lehre/WS21/Praktikum/Uebungen/blatt05.pdf)
 6. [Blatt06](https://algebra.mathematik.uni-siegen.de/barakat/Lehre/WS21/Praktikum/Uebungen/blatt06.pdf)
 7. [Blatt07](https://algebra.mathematik.uni-siegen.de/barakat/Lehre/WS21/Praktikum/Uebungen/blatt07.pdf)
-
-<!--
 8. [Blatt08](https://algebra.mathematik.uni-siegen.de/barakat/Lehre/WS21/Praktikum/Uebungen/blatt08.pdf)
 -->
