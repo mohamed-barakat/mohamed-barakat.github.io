@@ -14,10 +14,18 @@ permalink: /teaching/S22/PraktikumCA/
 
 ### Zielgruppe und benötigte Vorkenntnisse
 
-Das Praktikum Computeralgebra ist eine 4 SWS Veranstaltung, die sich
-über zwei Semester erstreckt (2 SWS pro Semester). Die Semester müssen
-nicht aufeinanderfolgend sein. Es richtet sich an
-Fachbachelorstudierende und Lehramtsstudierende aller Semester.
+Das Praktikum Computeralgebra besteht aus zwei Teilen, Teil I und Teil
+II. Es richtet sich an Studierende der Mathematik aller Semester.
+
+* Studierende des Fach-Bachelors müssen beide Teile bearbeiten (4 SWS, 6 CP).
+* Studierende des Lehramts müssen einen der beiden Teile bearbeiten (2 SWS, 3 CP).
+
+Da das Praktikum jedes Semester angeboten wird, können Studierende des
+Fach-Bachelors die Veranstaltung auf zwei Semester strecken, d.h. pro
+Semester einen Teil bearbeiten. Die Semester müssen nicht
+aufeinanderfolgend sein. Für Studierende des Fach-Bachelors gibt es
+die Möglichkeit, in einem Semester beide Teile zu bearbeiten. Dafür
+müssen sie an beiden wöchentlich angebotenen Terminen teilnehmen.
 
 Für das Praktikum wird folgendes vorausgesetzt:
 
