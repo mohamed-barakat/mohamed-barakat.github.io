@@ -10,7 +10,9 @@ permalink: /teaching/S22/PraktikumCA/
 
 ### Termine
 
-* Parktikumstermine: Mo 16:15—17:45 Uhr (Beginn: 11. April) [Siehe Unisono-Eintrag](https://unisono.uni-siegen.de/qisserver/pages/cm/exa/examEventOverviewOwn/showOverview.xhtml?_flowId=examEventOverviewOwn-flow&_flowExecutionKey=e7s2), der Donnerstagstermin ist als Ausweichtermin gedacht.
+* Parktikumstermine ([Siehe Unisono-Eintrag](https://unisono.uni-siegen.de/qisserver/pages/cm/exa/examEventOverviewOwn/showOverview.xhtml?_flowId=examEventOverviewOwn-flow&_flowExecutionKey=e7s2)):
+  - Mo 16:15—17:45 Uhr (Beginn: 11. April)
+  - Do 16:15—17:45 Uhr 
 
 ### Zielgruppe und benötigte Vorkenntnisse
 
