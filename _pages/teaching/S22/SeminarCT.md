@@ -17,8 +17,8 @@ Speaker            | Title | Date
 Dinah Tecle        | Generative effects: Orders and adjunctions | Wednesday, 04.05, 10:15-11:45
 Marvin Arnold      | Generative effects: Orders and adjunctions | Friday, 13.05, 14:00-15:30
 Ties Ohst          | Resources: Monoidal preorders and enrichment | Friday, 20.05, 14:00-15:30
-Lukas Fischbach    | Databases: Categories, functors, and (co)limits | Friday, 27.05, 14:00-15:30
-Dustin Busch       | Databases: Categories, functors, and (co)limits | Friday, 03.06, 14:00-15:30
+Dustin Busch       | Databases: Categories, functors, and (co)limits | Friday, 27.05, 14:00-15:30
+Lukas Fischbach    | Databases: Categories, functors, and (co)limits | Friday, 03.06, 14:00-15:30
 Jan Friedrichs     | | Friday, 10.06, 14:00-15:30
 Tom Kuhmichel      | Logic of behavior: Sheaves, toposes, languages | Friday, 17.06, 14:00-15:30
 Chau Nnguyen       | Markov categories | Friday, 24.06, 14:00-15:30
