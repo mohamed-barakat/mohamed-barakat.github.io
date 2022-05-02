@@ -14,6 +14,7 @@ Semester | Course
 --------:|--------
    S 22  | [Praktikum Computeralgebra I & II]({{site.baseurl}}/teaching/S22/PraktikumCA/)
    S 22  | [Seminar Category Theory]({{site.baseurl}}/teaching/S22/SeminarCT/)
+   S 22  | [Seminar Quantum Computing]({{site.baseurl}}/teaching/S22/SeminarQC/)
    S 22  | [Algebra]({{site.baseurl}}/teaching/S22/Algebra/)
    W 21  | [Praktikum Computeralgebra I & II]({{site.baseurl}}/teaching/W21/PraktikumCA/)
    W 21  | [Algorithmische Algebra]({{site.baseurl}}/teaching/W21/AA/)
