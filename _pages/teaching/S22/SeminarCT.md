@@ -14,7 +14,7 @@ In this seminar we will mainly study the book of [David Spivak](https://math.mit
 
 Speaker            | Title | Date
 :-----------------:|:-----:|:---:
-Dinah Tecle        | Generative effects: Orders and adjunctions | Wednesday, 04.05, 10:15-11:45
+Dinah Tecle        | Generative effects: Orders and adjunctions | Wednesday, 11.05, 08:15-09:45
 Marvin Arnold      | Generative effects: Orders and adjunctions | Friday, 13.05, 14:00-15:30
 Ties Ohst          | Resources: Monoidal preorders and enrichment | Friday, 20.05, 14:00-15:30
 Dustin Busch       | Databases: Categories, functors, and (co)limits | Friday, 27.05, 14:00-15:30
