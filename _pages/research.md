@@ -14,6 +14,7 @@ permalink: /research/
 
 ## Preprints
 
+3 | Mohamed Barakat, Tom Kuhmichel, and Fabian Zickgraf, [*CompilerForCAP - A category theory aware compiler; Building and compiling towers of categories*](https://algebra.mathematik.uni-siegen.de/barakat/ACT22/CompilerForCAP.pdf).
 2 | Mohamed Barakat and Lukas Kühne, [*Computing the nonfree locus of the moduli space of arrangements and Terao's freeness conjecture*](http://arxiv.org/abs/2112.13065).
 1 | H. Chau Nguyen, Sébastien Designolle, Mohamed Barakat and Otfried Gühne, [*Symmetries between measurements in quantum mechanics*](http://arxiv.org/abs/2003.12553).
 
