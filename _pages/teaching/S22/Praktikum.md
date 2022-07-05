@@ -71,11 +71,11 @@ Der Erfolg der Installation kann anhand des ersten Übungsblattes (siehe unten) 
 1. [Blatt01 (GAP)](https://algebra.mathematik.uni-siegen.de/barakat/Lehre/SS22/Praktikum/Uebungen/blatt01.pdf), [Blatt01 (Julia)](https://algebra.mathematik.uni-siegen.de/barakat/Lehre/SS22/Praktikum/Uebungen/blatt01_julia.pdf)
 2. [Blatt02 (GAP)](https://algebra.mathematik.uni-siegen.de/barakat/Lehre/SS22/Praktikum/Uebungen/blatt02.pdf), [Blatt02 (Julia)](https://algebra.mathematik.uni-siegen.de/barakat/Lehre/SS22/Praktikum/Uebungen/blatt02_julia.pdf)
 3. [Blatt03 (GAP)](https://algebra.mathematik.uni-siegen.de/barakat/Lehre/SS22/Praktikum/Uebungen/blatt03.pdf), [Blatt03 (Julia)](https://algebra.mathematik.uni-siegen.de/barakat/Lehre/SS22/Praktikum/Uebungen/blatt03_julia.pdf)
+4. [Blatt04 (GAP)](https://algebra.mathematik.uni-siegen.de/barakat/Lehre/SS22/Praktikum/Uebungen/blatt04.pdf), [Blatt04 (Julia)](https://algebra.mathematik.uni-siegen.de/barakat/Lehre/SS22/Praktikum/Uebungen/blatt04_julia.pdf)
+5. [Blatt05 (GAP)](https://algebra.mathematik.uni-siegen.de/barakat/Lehre/SS55/Praktikum/Uebungen/blatt05.pdf), [Blatt05 (Julia)](https://algebra.mathematik.uni-siegen.de/barakat/Lehre/SS22/Praktikum/Uebungen/blatt02_julia.pdf)
+6. [Blatt06 (GAP)](https://algebra.mathematik.uni-siegen.de/barakat/Lehre/SS22/Praktikum/Uebungen/blatt06.pdf), [Blatt06 (Julia)](https://algebra.mathematik.uni-siegen.de/barakat/Lehre/SS22/Praktikum/Uebungen/blatt06_julia.pdf)
 
 <!--
-4. [Blatt04](https://algebra.mathematik.uni-siegen.de/barakat/Lehre/SS22/Praktikum/Uebungen/blatt04.pdf)
-5. [Blatt05](https://algebra.mathematik.uni-siegen.de/barakat/Lehre/SS22/Praktikum/Uebungen/blatt05.pdf)
-6. [Blatt06](https://algebra.mathematik.uni-siegen.de/barakat/Lehre/SS22/Praktikum/Uebungen/blatt06.pdf)
 7. [Blatt07](https://algebra.mathematik.uni-siegen.de/barakat/Lehre/SS22/Praktikum/Uebungen/blatt07.pdf)
 8. [Blatt08](https://algebra.mathematik.uni-siegen.de/barakat/Lehre/SS22/Praktikum/Uebungen/blatt08.pdf)
 -->
