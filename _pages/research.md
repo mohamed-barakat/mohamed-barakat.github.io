@@ -14,7 +14,7 @@ permalink: /research/
 
 ## Preprints
 
-3 | Mohamed Barakat, Tom Kuhmichel, and Fabian Zickgraf, [*CompilerForCAP - A category theory aware compiler; Building and compiling towers of categories*](https://algebra.mathematik.uni-siegen.de/barakat/ACT22/CompilerForCAP.pdf).
+3 | Mohamed Barakat, Robin Brüser, Tobias Huber and Jan Piclum, [*IBP reduction via Gröbner bases in a rational double-shift algebra*](http://arxiv.org/abs/2207.09275).
 2 | Mohamed Barakat and Lukas Kühne, [*Computing the nonfree locus of the moduli space of arrangements and Terao's freeness conjecture*](http://arxiv.org/abs/2112.13065).
 1 | H. Chau Nguyen, Sébastien Designolle, Mohamed Barakat and Otfried Gühne, [*Symmetries between measurements in quantum mechanics*](http://arxiv.org/abs/2003.12553).
 
@@ -46,7 +46,8 @@ permalink: /research/
 
 ## Non-refereed publications
 
-12 | Mohamed Barakat and Lukas Kühne, [*Investigating Terao’s freeness conjecturewith computer algebra*](https://fachgruppe-computeralgebra.de/data/CA-Rundbrief/car68.pdf#page=8). Computeralgebra-Rundbrief (2021), 8-11.
+12 | Mohamed Barakat, Tom Kuhmichel, and Fabian Zickgraf, [*CompilerForCAP - A category theory aware compiler; Building and compiling towers of categories*](https://algebra.mathematik.uni-siegen.de/barakat/ACT22/CompilerForCAP.pdf).
+11 | Mohamed Barakat and Lukas Kühne, [*Investigating Terao’s freeness conjecturewith computer algebra*](https://fachgruppe-computeralgebra.de/data/CA-Rundbrief/car68.pdf#page=8). Computeralgebra-Rundbrief (2021), 8-11.
 10 | Mohamed Barakat, Markus Lange-Hegermann and Sebastian Posur, [*Elimination via saturation*](http://arxiv.org/abs/1707.00925).
 9 | Mohamed Barakat and Markus Lange-Hegermann, [*Gabriel morphisms and the computability of Serre quotients with applications to coherent sheaves*](http://arxiv.org/abs/1409.2028).
 8 | Mohamed Barakat, Max Horn, Frank Lübeck, Oleksandr Motsak, Max Neunhöffer, and Hans Schönemann, [*The GAP package SingularInterface*](http://www.fachgruppe-computeralgebra.de/data/CA-Rundbrief/car55.pdf#page=29). Computeralgebra-Rundbrief (2014), 29-33.
