@@ -18,4 +18,4 @@ may neither be affine nor quasi-affine. In this talk, I will present a
 Gröbner-basis-based algorithm that computes the constructible image of
 a morphism of affine spaces, along with some applications.
 
-<https://www.newton.ac.uk/seminar/20200130091010001/>
+<https://www.newton.ac.uk/seminar/24098/>
