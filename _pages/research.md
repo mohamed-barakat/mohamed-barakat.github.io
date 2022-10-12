@@ -14,6 +14,7 @@ permalink: /research/
 
 ## Preprints
 
+3 | Mohamed Barakat, Robin Brüser, Claus Fieker, Tobias Huber and Jan Piclum, [*Feynman integral reduction using Gröbner bases*](https://arxiv.org/abs/2210.05347).
 2 | Mohamed Barakat and Lukas Kühne, [*Computing the nonfree locus of the moduli space of arrangements and Terao's freeness conjecture*](http://arxiv.org/abs/2112.13065).
 1 | H. Chau Nguyen, Sébastien Designolle, Mohamed Barakat and Otfried Gühne, [*Symmetries between measurements in quantum mechanics*](http://arxiv.org/abs/2003.12553).
 
