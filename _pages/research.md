@@ -14,13 +14,13 @@ permalink: /research/
 
 ## Preprints
 
-3 | Mohamed Barakat, Robin Brüser, Claus Fieker, Tobias Huber and Jan Piclum, [*Feynman integral reduction using Gröbner bases*](https://arxiv.org/abs/2210.05347).
-2 | Mohamed Barakat and Lukas Kühne, [*Computing the nonfree locus of the moduli space of arrangements and Terao's freeness conjecture*](http://arxiv.org/abs/2112.13065).
+2 | Mohamed Barakat, Robin Brüser, Claus Fieker, Tobias Huber and Jan Piclum, [*Feynman integral reduction using Gröbner bases*](https://arxiv.org/abs/2210.05347).
 1 | H. Chau Nguyen, Sébastien Designolle, Mohamed Barakat and Otfried Gühne, [*Symmetries between measurements in quantum mechanics*](http://arxiv.org/abs/2003.12553).
 
 
 ## Refereed publications
 
+22 | Mohamed Barakat and Lukas Kühne, [*Computing the nonfree locus of the moduli space of arrangements and Terao's freeness conjecture*](http://arxiv.org/abs/2112.13065). Accepted for publication in Math. Comp.
 21 | Mohamed Barakat and Markus Lange-Hegermann [*An algorithmic approach to Chevalley's Theorem on images of rational morphisms between affine varieties*](http://arxiv.org/abs/1911.10411). Math. Comp., 91(333), (2022), 451–490.
 20 | Mohamed Barakat, Reimer Behrends, Christopher Jefferson, Lukas Kühne and Martin Leuner, [*On the generation of rank 3 simple matroids with an application to Terao's freeness conjecture*](http://arxiv.org/abs/1907.01073). SIAM J. Discrete Math., 35(2), (2021), 1201–1223.
 19 | Mohamed Barakat and Markus Lange-Hegermann, [*A constructive approach to the module of twisted global sections on relative projective spaces*](http://arxiv.org/abs/1409.6100). Algorithmic and Experimental Methods in Algebra, Geometry, and Number Theory, Springer, (2017) 23-49.
