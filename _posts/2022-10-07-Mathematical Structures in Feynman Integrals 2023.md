@@ -4,7 +4,7 @@ comments: false
 ---
 
 ### February 13-16, 2023
-### University of Siegen
+##### Workshop at the University of Siegen
 
 The workshop aims at bringing together experts from Mathematics and
 Physics to discuss the latest developments and future directions in
