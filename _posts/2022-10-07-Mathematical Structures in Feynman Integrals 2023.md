@@ -3,8 +3,8 @@ title: Mathematical Structures in Feynman Integrals
 comments: false
 ---
 
-### February 13-16, 2023
-##### Workshop at the University of Siegen
+### Workshop at the University of Siegen
+##### February 13-16, 2023
 
 The workshop aims at bringing together experts from Mathematics and
 Physics to discuss the latest developments and future directions in
