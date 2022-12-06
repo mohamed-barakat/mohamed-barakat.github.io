@@ -1,5 +1,5 @@
 ---
-title: Rings, Algebras, and Categories -- Towards Computer Algebra
+title: Rings, Algebras, and Categories -- Towards Coding and Computer Algebra
 comments: false
 ---
 
