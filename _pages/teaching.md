@@ -12,6 +12,7 @@ Link to my page on the current Campus-Management-System [unisono](https://unison
 
 Semester | Course
 --------:|--------
+   S 23  | [Praktikum Computeralgebra I & II]({{site.baseurl}}/teaching/S23/PraktikumCA/)
    W 22  | [Praktikum Computeralgebra I & II]({{site.baseurl}}/teaching/W22/PraktikumCA/)
    S 22  | [Praktikum Computeralgebra I & II]({{site.baseurl}}/teaching/S22/PraktikumCA/)
    S 22  | [Seminar Category Theory]({{site.baseurl}}/teaching/S22/SeminarCT/)

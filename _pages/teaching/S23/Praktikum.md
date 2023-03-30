@@ -1,19 +1,19 @@
 ---
 layout: single
 title: "Praktikum Computeralgebra"
-permalink: /teaching/W22/PraktikumCA/
+permalink: /teaching/S23/PraktikumCA/
 ---
 
-## Wintersemester 2022/23
+## Sommersemester 23
 
 ### Aktuelles
 
 ### Termine
 
-* Parktikumstermine ([Siehe Unisono-Eintrag](https://unisono.uni-siegen.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=37343&periodId=194)):
+* Parktikumstermine ([Siehe Unisono-Eintrag](https://unisono.uni-siegen.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=37343&periodId=195)):
   - Mo 16:00 - 18:00 Uhr
   - Do 14:00 - 16:00 Uhr
-* Begin: Do, 13. Oktober
+* Begin: Do, 6. April
 
 ### Zielgruppe und benötigte Vorkenntnisse
 
@@ -58,16 +58,30 @@ Die Programmiersprache `Julia` wird benötigt. Eine
 Installationsanweisung für die verschiedenen Betriebsysteme findet man
 [hier](https://julialang.org/learning/getting-started/#installing).
 
-Der Erfolg der Installation kann anhand des ersten Übungsblattes (siehe unten) getestet werden.
+Der Erfolg der Installation kann anhand des ersten Übungsblattes
+(siehe unten) getestet werden.
+
+### Abgabe
+
+Die Abgabe der Aufgaben erfolgt durch ein Testat. Dabei soll die
+eigene Lösung dem Dozenten erklärt werden und die Korrektheit anhand
+von randomisierten Beispielen inklusive Randfälle domonstriert werden.
+
+Nach erfolgreichem Testat soll die testierte Aufgabe den Dozenten per
+Email mit der Betreffzeile "Praktikum Computeralgebra" geschickt
+werden.
+
+Das Arbeiten in Gruppen ist erlaubt. Die Abgaben erfolgen aber einzeln.
 
 ### Blätter
 
-<!--
 1. [Blatt01](https://algebra.mathematik.uni-siegen.de/barakat/Lehre/Praktikum/Uebungen/blatt01.pdf)
 2. [Blatt02](https://algebra.mathematik.uni-siegen.de/barakat/Lehre/Praktikum/Uebungen/blatt02.pdf)
 3. [Blatt03](https://algebra.mathematik.uni-siegen.de/barakat/Lehre/Praktikum/Uebungen/blatt03.pdf)
 4. [Blatt04](https://algebra.mathematik.uni-siegen.de/barakat/Lehre/Praktikum/Uebungen/blatt04.pdf)
 5. [Blatt05](https://algebra.mathematik.uni-siegen.de/barakat/Lehre/Praktikum/Uebungen/blatt05.pdf)
+
+<!--
 6. [Blatt06](https://algebra.mathematik.uni-siegen.de/barakat/Lehre/Praktikum/Uebungen/blatt06.pdf)
 7. [Blatt07](https://algebra.mathematik.uni-siegen.de/barakat/Lehre/Praktikum/Uebungen/blatt07.pdf)
 8. [Blatt08](https://algebra.mathematik.uni-siegen.de/barakat/Lehre/Praktikum/Uebungen/blatt08.pdf)
