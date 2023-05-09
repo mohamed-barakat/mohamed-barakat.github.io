@@ -3,9 +3,8 @@ title: Functor Categories, Model Theory, and Constructive Category Theory
 comments: false
 ---
 
-[University of Málaga](https://www.uma.es/)
-
-July 03-07, 2023
+### [University of Málaga](https://www.uma.es/)
+#### July 03-07, 2023
 
 <https://web.northeastern.edu/martsinkovsky/p/Conferences/M%C3%A1laga2023/FM-23.html>
 
