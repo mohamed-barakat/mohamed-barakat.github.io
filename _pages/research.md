@@ -46,7 +46,7 @@ permalink: /research/
 
 ## Non-refereed publications
 
-13 | Mohamed Barakat, Robin Brüser, Tobias Huber and Jan Piclum, [*IBP reduction via Gröbner bases in a rational double-shift algebra*](http://arxiv.org/abs/2207.09275). Accepted for publication in Proceedings of Science ([Loops and Legs in Quantum Field Theory](https://indico.desy.de/event/30267/)).
+13 | Mohamed Barakat, Robin Brüser, Tobias Huber and Jan Piclum, [*IBP reduction via Gröbner bases in a rational double-shift algebra*](http://arxiv.org/abs/2207.09275). Proceedings of Science ([Loops and Legs in Quantum Field Theory](https://indico.desy.de/event/30267/)).
 12 | Mohamed Barakat, Tom Kuhmichel, and Fabian Zickgraf, [*CompilerForCAP - A category theory aware compiler; Building and compiling towers of categories*](https://algebra.mathematik.uni-siegen.de/barakat/CompilerForCAP/CompilerForCAP.pdf).
 11 | Mohamed Barakat and Lukas Kühne, [*Investigating Terao’s freeness conjecture with computer algebra*](https://fachgruppe-computeralgebra.de/data/CA-Rundbrief/car68.pdf#page=8). Computeralgebra-Rundbrief (2021), 8-11.
 10 | Mohamed Barakat, Markus Lange-Hegermann and Sebastian Posur, [*Elimination via saturation*](http://arxiv.org/abs/1707.00925).
