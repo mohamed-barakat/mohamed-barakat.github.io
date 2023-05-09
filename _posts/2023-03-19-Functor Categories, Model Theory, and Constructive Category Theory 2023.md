@@ -1,4 +1,5 @@
 ---
+title: Functor Categories, Model Theory, and Constructive Category Theory
 comments: false
 ---
 
