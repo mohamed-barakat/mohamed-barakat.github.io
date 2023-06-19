@@ -13,6 +13,6 @@ Organizers
 * [Manuel Cortés Izurdiaga](https://www.uma.es/departments/teachers/Uk5qWlNUWEkzbDJTZFBWa0JEbnB0dz09/etsi-informatica/?set_language=en) (University of Málaga)
 * [Pedro Guil Asensio](https://www.startpage.com/sp/search) (University of Murcia)
 * [Alex Martsinkovsky](https://cos.northeastern.edu/people/alex-martsinkovsky/) (Northeastern University)
-* [Daisie Rock](https://sites.google.com/view/jobdrock/) (Ghent University)
+* [Job Daisie Rock](https://sites.google.com/view/jobdrock/) (Ghent University)
 * [Philipp Rothmaler](https://www.gc.cuny.edu/people/philipp-rothmaler) (CUNY)
 * [Antonio Viruel](https://sites.google.com/view/antonio-viruel/) (University of Málaga)
