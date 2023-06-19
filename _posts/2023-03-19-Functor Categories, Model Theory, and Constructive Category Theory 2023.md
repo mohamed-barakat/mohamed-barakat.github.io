@@ -10,8 +10,8 @@ comments: false
 
 Organizers
 * [Mohamed Barakat](/barakat/) (University of Siegen)
-* [Manuel Cortés Izurdiaga](https://www.uma.es/departments/teachers/Uk5qWlNUWEkzbDJTZFBWa0JEbnB0dz09/etsi-informatica/?set_language=en) (University of Málaga)
-* [Pedro Guil Asensio](https://www.startpage.com/sp/search) (University of Murcia)
+* [Manuel Cortés Izurdiaga](https://sites.google.com/uma.es/mizurdiaga/home) (University of Málaga)
+* [Pedro Guil Asensio](https://www.researchgate.net/profile/Pedro-Asensio-2) (University of Murcia)
 * [Alex Martsinkovsky](https://cos.northeastern.edu/people/alex-martsinkovsky/) (Northeastern University)
 * [Job Daisie Rock](https://sites.google.com/view/jobdrock/) (Ghent University)
 * [Philipp Rothmaler](https://www.gc.cuny.edu/people/philipp-rothmaler) (CUNY)
