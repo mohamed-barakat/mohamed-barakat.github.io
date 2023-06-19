@@ -14,5 +14,5 @@ Organizers
 * [Pedro Guil Asensio](https://www.startpage.com/sp/search) (University of Murcia)
 * [Alex Martsinkovsky](https://cos.northeastern.edu/people/alex-martsinkovsky/) (Northeastern University)
 * [Daisie Rock](https://sites.google.com/view/jobdrock/) (Ghent University)
-* [Philipp Rothmaler] (CUNY)
+* [Philipp Rothmaler](https://www.gc.cuny.edu/people/philipp-rothmaler) (CUNY)
 * [Antonio Viruel](https://sites.google.com/view/antonio-viruel/) (University of Málaga)
