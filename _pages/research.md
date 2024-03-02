@@ -53,10 +53,10 @@ permalink: /research/
 9 | Mohamed Barakat and Markus Lange-Hegermann, [*Gabriel morphisms and the computability of Serre quotients with applications to coherent sheaves*](http://arxiv.org/abs/1409.2028).
 8 | Mohamed Barakat, Max Horn, Frank Lübeck, Oleksandr Motsak, Max Neunhöffer, and Hans Schönemann, [*The GAP package SingularInterface*](http://www.fachgruppe-computeralgebra.de/data/CA-Rundbrief/car55.pdf#page=29). Computeralgebra-Rundbrief (2014), 29-33.
 7 | Mohamed Barakat, [*Computations of unitary groups in characteristic 2*](https://algebra.mathematik.uni-siegen.de/barakat/forJPSerre/UnitaryGroup.pdf). (for J.-P. Serre) (2013).
-6 | Mohamed Barakat, [*Computing Ext in Serre quotient categories*](http://www.mfo.de/document/1320b/OWR_2013_25.pdf). Mini-Workshop: Algebraic and Analytic Techniques for Polynomial Vector Fields, MFO report no. 57 (2013), 19-21.
+6 | Mohamed Barakat, [*Computing Ext in Serre quotient categories*](https://doi.org/10.14760/OWR-2013-25). Mini-Workshop: Constructive Homological Algebra with Applications to Coherent Sheaves and Control Theory, MFO report no. 57 (2013), 19-21.
 5 | Mohamed Barakat and Markus Lange-Hegermann, [*The homalg project*](http://www.fachgruppe-computeralgebra.de/data/CA-Rundbrief/car51.pdf#page=6). Computeralgebra Rundbrief (2012), 6-9.
-4 | Mohamed Barakat, [*Jet groupoids and the invariance of geometric structures*](http://www.mfo.de/document/1050c/OWR_2010_57.pdf). Mini-Workshop: Algebraic and Analytic Techniques for Polynomial Vector Fields, MFO report no. 57 (2010), 19-21.
-3 | Mohamed Barakat, [*Spectral Sequences and Effective Computations*](http://www.mfo.de/document/0946b/OWR_2009_50.pdf). Mini-Workshop: Formal Methods in Commutative Algebra: A View Toward Constructive Homological Algebra, MFO report no. 50 (2009), 7-12.
+4 | Mohamed Barakat, [*Jet groupoids and the invariance of geometric structures*](https://doi.org/10.14760/OWR-2010-57). Mini-Workshop: Algebraic and Analytic Techniques for Polynomial Vector Fields, MFO report no. 57 (2010), 19-21.
+3 | Mohamed Barakat, [*Spectral Sequences and Effective Computations*](https://doi.org/10.14760/OWR-2009-50). Mini-Workshop: Formal Methods in Commutative Algebra: A View Toward Constructive Homological Algebra, MFO report no. 50 (2009), 7-12.
 2 | Mohamed Barakat, [*Spectral filtrations via generalized morphisms*](http://arxiv.org/abs/0904.0240).
 1 | Mohamed Barakat and Barbara Bremer, [*Higher extension modules and the Yoneda product*](http://arxiv.org/abs/0802.3179).
 
