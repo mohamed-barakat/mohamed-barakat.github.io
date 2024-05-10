@@ -3,8 +3,6 @@ title: Doctrine-specific ur-algorithms
 comments: false
 ---
 
-### Doctrine-specific ur-algorithms
-
 ###### Talk at [<Q>The Berkeley Seminar</Q>](https://topos.site/events/berkeley-seminar/#doctrine-specific-ur-algorithms) <br/> Topos Institute <br/> Berekely, California <br/> 18 March 2024
 
 ###### Abstract:
