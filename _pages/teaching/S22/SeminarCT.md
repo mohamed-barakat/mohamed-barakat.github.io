@@ -6,7 +6,7 @@ permalink: /teaching/S22/SeminarCT/
 
 ## Summer semester 2022
 
-In this seminar we will mainly study the book of [David Spivak](https://math.mit.edu/~dspivak/) and [Brendan Fong](http://brendanfong.com/):
+In this seminar we will mainly study the book of [David Spivak](https://math.mit.edu/~dspivak/) and [Brendan Fong](https://brendanfong.com/):
 
 [Seven Sketches in Compositionality: An Invitation to Applied Category Theory](https://arxiv.org/pdf/1803.05316.pdf)
 
