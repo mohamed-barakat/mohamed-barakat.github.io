@@ -3,7 +3,9 @@ title: CAP — a categorical (re)organization of computer algebra
 comments: false
 ---
 
-###### Talk at [<Q>Topos Institute Colloquium</Q>](https://topos.institute/events/topos-colloquium/) <br/> Topos Institute <br/> Berekely, California <br/> 17 July 2025
+###### Talk at the [<Q>Topos Institute Colloquium</Q>](https://topos.institute/events/topos-colloquium/)
+
+Topos Institute <br/> Berekely, California <br/> 17 July 2025
 
 ###### Abstract:
 
