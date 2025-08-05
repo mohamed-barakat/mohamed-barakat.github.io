@@ -19,4 +19,12 @@ can be derived in a purely computational way. This can be viewed as a
 categorical version of the Curry-Howard correspondence to extract
 programs from proofs.
 
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/hzlRgcxIO1Y?si=p8VlMqfjAKTgOlWH"
+title="YouTube video player" frameborder="0" allow="accelerometer;
+autoplay; clipboard-write; encrypted-media; gyroscope;
+picture-in-picture; web-share"
+referrerpolicy="strict-origin-when-cross-origin"
+allowfullscreen></iframe>
+
 <https://youtu.be/hzlRgcxIO1Y>
