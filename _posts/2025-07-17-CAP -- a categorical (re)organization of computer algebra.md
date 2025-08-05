@@ -26,4 +26,12 @@ categorical abstraction and produce efficient low-level code which is
 almost impossible to write by hand, let alone error-free.
 
 
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/t1v13J-P7RE?si=fgSdICCgUZuW_JwS"
+title="YouTube video player" frameborder="0" allow="accelerometer;
+autoplay; clipboard-write; encrypted-media; gyroscope;
+picture-in-picture; web-share"
+referrerpolicy="strict-origin-when-cross-origin"
+allowfullscreen></iframe>
+
 <https://www.youtube.com/watch?v=t1v13J-P7RE&list=PLhgq-BqyZ7i7gcP-hFVqIqQDpK3e4AsfZ>
