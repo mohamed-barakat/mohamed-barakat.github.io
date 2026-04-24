@@ -11,6 +11,9 @@ permalink: /research/
  [Google Scholar](https://scholar.google.com/citations?hl=en&user=Ca36-0MAAAAJ),
  [arXiv](https://arxiv.org/a/barakat_m_1.html))
 
+## Preprints
+
+1 | Mohamed Barakat, Marc Talleux, and Fabian Zickgraf, [*Implementing the biset category of finite groups*](https://arxiv.org/abs/2604.18346).
 
 ## Refereed publications
 
