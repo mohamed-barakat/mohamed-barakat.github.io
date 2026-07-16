@@ -11,12 +11,9 @@ permalink: /research/
  [Google Scholar](https://scholar.google.com/citations?hl=en&user=Ca36-0MAAAAJ),
  [arXiv](https://arxiv.org/a/barakat_m_1.html))
 
-## Preprints
-
-1 | Mohamed Barakat, Marc Talleux, and Fabian Zickgraf, [*Implementing the biset category of finite groups*](https://arxiv.org/abs/2604.18346).
-
 ## Refereed publications
 
+24 | Mohamed Barakat, Marc Talleux, and Fabian Zickgraf, [*Implementing the biset category of finite groups*](https://arxiv.org/abs/2604.18346), accepted for publication in the [proceedings](https://icms-conference.org/2026/papers/paper66/main.pdf) of [ICMS 2026](https://icms-conference.org/2026/index.html).
 23 | Mohamed Barakat, Robin Brüser, Claus Fieker, Tobias Huber and Jan Piclum, [*Feynman integral reduction using Gröbner bases*](https://arxiv.org/abs/2210.05347). Journal of High Energy Physics volume 2023, Article number: 168 (2023).
 22 | Mohamed Barakat and Lukas Kühne, [*Computing the nonfree locus of the moduli space of arrangements and Terao's freeness conjecture*](https://arxiv.org/abs/2112.13065). Math. Comp. 92 (2023), 1431-1452.
 21 | Mohamed Barakat and Markus Lange-Hegermann, [*An algorithmic approach to Chevalley's Theorem on images of rational morphisms between affine varieties*](https://arxiv.org/abs/1911.10411). Math. Comp., 91(333), (2022), 451–490.
