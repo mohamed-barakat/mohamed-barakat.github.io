@@ -7,7 +7,7 @@ permalink: /research/
 {% include toc %}
 
 ([Zentralblatt MATH](https://zbmath.org/authors/barakat.mohamed),
- [MathSciNet](https://mathscinet.ams.org/mathscinet/MRAuthorID/706483),
+ [MathSciNet](https://mathscinet.ams.org/mathscinet/author?authorId=706483),
  [Google Scholar](https://scholar.google.com/citations?hl=en&user=Ca36-0MAAAAJ),
  [arXiv](https://arxiv.org/a/barakat_m_1.html))
 
